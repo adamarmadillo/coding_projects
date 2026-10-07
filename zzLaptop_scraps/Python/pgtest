@@ -1,0 +1,26 @@
+import pygame as pg
+import random as rand
+
+pg.init()
+screen = pg.display.set_mode((400, 400))
+pg.display.set_caption("Game")
+clock = pg.time.Clock()
+running = True
+dt = 0
+
+
+font = pg.font.SysFont("Consolas", 12)
+
+while running:
+    for event in pg.event.get():
+        if event.type == pg.QUIT:
+            running = False
+
+    screen.fill("black")
+
+    pg.draw
+
+    pg.display.flip()
+
+    clock.tick(144)
+pg.quit()

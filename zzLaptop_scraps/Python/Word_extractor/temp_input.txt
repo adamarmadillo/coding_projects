@@ -1,0 +1,1231 @@
+BIOSCI Online Notes
+
+4/03 Lecture 1
+LO - Understand the 11 systems of the body
+
+Six levels of structural organisation in the human body
+Useful for describing the form (anatomy) and function (physiology) of the human body
+Chemical level is atoms and molecules
+The cellular level is cells and organelles
+The tissue level is tissues (groups of cells with certain properties) such as muscle or adipose
+The organ level is individual organs such as the heart or lungs
+The system level is groups of organs working to perform a specific task, such as the nervous system
+The organismal level is the entire individual
+
+Eleven body systems
+The human body is organised into 11 systems:
+Organs can be part of multiple systems, such as the pancreas
+Integumentary system
+This includes the epidermis, dermis, and hypodermis. 
+The epidermis protects the inside of our body and is responsible for the production of vitamin D
+The dermis contains hair follicles, sweat glands, nails, and sensory receptors. It is responsible for thermoregulation, protection, reinforcement (nails) and sensing touch, pressure, temperature and pain.
+The hypodermis contains fat stores and is responsible for storing energy.
+Muscular system
+This includes skeletal muscles, tendons and aponeuroses
+Skeletal muscles can be split into two groups, axial muscles and appendicular muscles
+The primary function of skeletal muscles is to control skeletal movement, control “entrances and exits”, produce heat, support the skeleton, and protect softer tissues
+Axial muscles provide support and position the axial skeleton
+Appendicular muscles support and move limbs
+Tendons are the fibrous, connections between muscles and bone
+Aponeuroses are the sheet-like muscle to muscle connections, which sometimes connect to bone.
+Skeletal system
+This includes bones, cartilage, ligaments, joints and bone marrow.
+Joints, ribs and various softer parts of the body consist of cartilage
+There are two types of cartilage, hyaline (which is the primary type found in the body) and fibrocartilage (which makes up the discs in the spine and meniscus in the knee)
+The bones of the body belong to two groups, the axial skeleton and the appendicular skeleton.
+The axial skeleton protects the brain, spinal cord and thorax, while also supporting the weight of the body onto lower limbs.
+The appendicular skeleton provides support and positioning for external limbs. It also allows muscles an anchor to move the axial skeleton.
+Both consist of the surrounding bones, along with supporting ligaments and cartilages.
+Ligaments are a fibrous connective tissue between two bones.
+There are two types of bone marrow, red and yellow. 
+Yellow marrow, found on the inside of longer bones, stores fat cells and is generally gained with aging.
+Yellow marrow is converted to red after major blood loss
+Red marrow, usually found in flat bones such as the pelvis and sternum, produces red blood cells, some is lost with aging.
+Nervous system
+The nervous system can be divided into the central nervous system (CNS), and the peripheral nervous system (PNS)
+The CNS includes the brain and the spine, and is responsible for controlling other systems
+The brain controls complex integrative activities which are either voluntary or involuntary
+The spine performs less complex integrative activities such as reflexes
+The PNS links the CNS with other systems and organs.
+Senses are mostly detected by nerves in the PNS except for the optic nerve, which is part of the CNS
+Endocrine system
+The endocrine system consist of a variety of endocrine glands and organs that manage hormones throughout the body
+Pineal gland controls day night rhythms with melatonin
+Hypothalamus/pituitary gland controls growth, fluid balance, and other endocrine glands
+Thyroid gland controls metabolism with thyroxine
+Parathyroid gland controls calcium levels
+Thymus controls maturation of lymphocytes (also called white blood cells, T-cells are also a type of lymphocytes)
+Adrenal glands control water and mineral balance (aldosterone), tissue metabolism (cortisol) and cardio/respiration functionality (adrenaline)
+Kidneys manage the production of red blood cells, and increase blood pressure and maintain calcium levels
+Pancreas controls glucose with insulin and glucagon
+Gonads control sexual characteristics and reproduction
+Lymphatic system
+The lymphatic system is responsible for the movement and filtering of fluids in the body, along with managing the immune system
+It includes the lymphatic vessels, lymphatic fluid, B cells and T cells, lymph nodes (including tonsils), the spleen, and the thymus
+Lymphatic vessels carry lymph fluid (also called lymph, which consists of a variety of excess fluids that are not reabsorbed into the capillaries, such as lipids, water, and protein
+After blood plasma is filtered from the fluid found in the cells, the fluid is called interstitial fluid
+Interstitial fluid is then absorbed into lymphatic capillaries and passed into afferent lymphatic vessels, which carry lymph into the lymph nodes
+Lymph nodes then remove foreign substances through filtering, phagocytosis (engulfing pathogens), and immune reactions
+then passing it on the efferent lymphatic vessels
+Valves along the vessels ensure the liquid flows in one direction, which is then directed back into blood flow through the lymphatic ducts into the junction of the jugular and subclavian veins
+The spleen monitors the circulation of blood cells, destroys pathogens with phagocytosis, recycles red blood cells, and produces immune responses
+The thymus develops and maintains T cells
+Cardiovascular system
+This includes heart, blood and blood vessels
+Blood carries (nutrients, oxygen, CO2, hormones, immune cells, HCO3-), removes waste, and regulates temperature
+The blood vessels are divided into 3 groups
+Arteries deliver blood to the capillaries
+Capillaries diffuse interstitial fluid in and out of blood
+Veins deliver blood back to the heart
+The heart pumps blood and maintains blood pressure
+Respiratory system
+This includes the nasal cavity, paranasal sinuses, pharynx, larynx, trachea, bronchi, lungs, and diagram
+This system consists of a linear path between organs to pass on material
+The nasal cavity and paranasal sinuses are responsible for warming and humidifying air →
+Pharynx conducts air → 
+Larynx filters food and air into different ducts, controls the vocal cords, and conducts air → 
+Trachea conducts air → 
+Bonchi conducts air → 
+Lungs exchange gases between the air and the blood, mostly including O2 and CO2
+The diaphragm expands and collapses the lung in order to move air
+Digestive system
+This includes the oral cavity, salivary glands, pharynx, oesophagus, stomach, small intestine, liver, gallbladder, pancreas, large intestine, and anus
+Like the respiratory system, it is also a mostly linear system
+The oral cavity breaks up food using the teeth and tongue, using salivary glands to act as a lubricant and begin digestion, and then conducts food and liquid down →
+The pharynx diverts food away from the respiratory system and conducts food and liquid down →
+The oesophagus conducts food down →
+The stomach secrets acid, enzymes, and hormones, along with physically digesting food, which it then conducts down →
+The small intestine secretes digestive enzymes, buffers acidity, releases hormones, and most importantly, absorbs nutrients
+The liver regulates the amount of nutrients in the blood, and secretes bile (also called gall) which helps with the digestion of fatty acids and other nutrients
+This bile is then concentrated by the gallbladder, and secreted into the beginning of the small intestinal tract
+The pancreas also produces digestive enzymes, along with buffering acidity and secreting endocrine hormones
+The remaining substance is conducted to the large intestine, which removes water, leaving the waste to be excreted by the anus
+Urinary system
+This includes the kidneys, ureters, bladder, and urethra
+The kidney produces and concentrates urine, regulates pH and ions, manages blood volume and pressure, and assists in mineral balance and the production of blood cells
+The urine is then passed into the ureters, into the bladder, and out the urethra, “conducting to exterior”
+
+
+6/03 Lecture 2
+LO - describe epithelial tissue and its types along with its classification, location, structure, and function, describe the structure/function of the basement membrane, and understand the morphology of the exocrine and endocrine glands.
+
+Epithelial tissue
+Epithelial tissue covers the body surface, lines organs, and forms glands of the body
+It can be a selective barrier, protect the body, and contains glands for secretions
+Epithelium on the interior of lymphatic/blood vessels is called endothelium
+It is arranged in sheets as single or multiple layers, which are held together by cell junctions
+This includes tight junctions, adherens junctions, gap junctions, desmosomes, and hemidesmosomes
+Cell junctions
+Epithelial cells (epithelia) have 3 different surfaces, the apical, lateral, and the basal
+Cell junctions are connections between the different surfaces of the cells
+Most cell junctions connect from the lateral to lateral surfaces of epithelial cells except for hemidesmosomes, which connect the basal surface to the basement layer (if the cell contacts the basement layer)
+Beneath the cell membrane and cytoplasm, microfilaments are found in bundles, linking the cytoplasm to the cell membrane and tying cells together
+An example microfilament is actin
+Intermediate filaments are found inside the cell, strengthening it
+An example intermediate filament is keratin
+Tight junctions
+Tight junctions are made from individual sealing strands
+They connect the cytoskeletons of adjacent cells
+Mainly functions as a seal between the apical and lateral/basal surfaces of the cell
+Prevents the flow of ions between the cells
+Maintains the polarity of the cell, allowing the functions of both sides of the cell to match their environment
+Many proteins involved but the most important ones are claudins and occludins
+Adherens junctions
+Also called belt desmosomes or adhesion belts (zonula adherens)
+Long junction the wraps around the cell at a more basal position than tight junctions
+Made of cadherins spanning between the cells, and catenins locking the cadherins through the cell membrane onto the actin microfilaments within the cell
+Mainly functions as a strong structural bond as it powerfully interlocks cytoskeletons of cells
+Less tight than tight junctions
+Desmosomes
+Dense button like plaque, only an isolated point of contact
+Also spanned by cadherins, which is connected to keratin intermediate filaments by desmoplakin
+Resistant to shearing forces
+Hemidesmosomes
+Desmosomes but specifically for connecting epithelia to the basement membrane (BM)
+Uses integrin (instead of cadherin) to link keratin to proteins that connects to laminin in the BM
+Gap junctions
+Direct connection between cells
+Made of 6 connexin molecules that creates a connexon (also called a hemichannel)
+2 hemichannels create a gap junction, which allows up to ~1kDa small molecules
+Basement membrane
+All epithelia has a basement layer separating it from other tissues (almost always connective tissue)
+Basement membrane has two parts:
+Basal lamina
+Secreted by epithelial cells, contains collagen, laminin, proteoglycans, glycoproteins, and other substances
+Reticular lamina
+Produced by the connective tissue beneath (called fibroblasts), contains collagen, fibronectin and other substances
+Supports the epithelium, giving a surface for migration of epithelial cells when damage occurs (platelets and fibrin fills in while the epithelial cells move to cover)
+Provides a physical barrier before reaching CT
+Filters substances in the kidney
+Epithelia does contain nerves, but does not contain blood vessels (avascular)
+The exchange of nutrients and wastes relies on diffusion from blood vessels in  the connective tissue
+Structure of epithelial tissue
+There are two types of epithelia:
+Covering/lining epithelia
+Covers exposed surfaces and internal cavities
+Includes the outer covering of the skin and some internal organs
+Also includes inner lining of blood vessels, ducts, and cavities, including the interior of the respiratory, digestive, urinary, and reproductive systems
+Covering and lining epithelia can be classified according to the arrangement or the shape of the cells
+Arrangement of cells involves:
+Simple, a single layer of cells, main functions are secretion, absorption, and filtration
+Stratified, two or more layers of cells, mainly just protective
+Pseudostratified, looks stratified, but all cells are in contact with the basement membrane, and not all cells are in contact with the apical surface
+Shape of the cells are:
+Squamous, which is flat and thin, mainly functions in diffusion
+Cuboidal, which is about as tall as they are wide, main functions are secretion and absorption
+Columnar, which is more tall than wide, main functions are also secretion and absorption
+Transitional, required to be stratified, cells change from cuboidal to flat depending on organ shape, main function is to stretch, like in the urinary bladder
+These shapes and arrangements can create a total of 8 combinations, only 5 of which we need to know the function of, along with 3 modificati
+This include 
+Glandular epithelia contains mostly secretory cells in arrangements to optimise for various purposes, it can be split into:
+Exocrine glands, which secrete onto external surfaces
+Endocrine glands, which secret hormones or precursors to interstitial fluid
+
+
+Basement membrane consists of the basal lamina and the reticular lamina
+These are secreted by the epithelial cells and connective tissue cells respectively
+
+Stratified epithelium does not have celia
+
+> Find basal layer
+> Check for stratification
+> Identify outer cell type
+> Check for celia
+> Check for special features (keratinisation, goblet cells etc)
+
+Exocrine secretes into ducts, whereas endocrine secretes into blood
+
+10/03 Lecture 3
+LO - describe the general features of connective tissue, the general structure of compact bone, and some different types of connective tissue, along with their structure, location and function.
+
+Connective tissue
+The main purpose of connective tissue is to bind, support and strengthen other body tissues, but it is also a major transport system (blood) and energy storage system (adipose)
+Connective tissue (CT) is, unlike epithelia, never found on body surfaces, and often highly vascular (except for in cartilage)
+Like epithelia however it is also supplied by nerves (except for in cartilage)
+Extracellular matrix
+CT is made up of cells and the extracellular matrix (ECM)
+The structure of the ECM can determine the qualities of the CT, such as in bone vs cartilage
+ECM is composed of ground substance (GS), and protein fibres
+GS is composed of water, proteins (including gelatin), and polysaccharides
+Glycosaminoglycans
+These polysaccharides are glycosaminoglycans (GAGs) (also mucopolysaccharides) and join with core proteins to make proteoglycans
+GAGs are made of chains of repeating disaccharide units
+Sulphated GAGs (most GAGs) bind to core proteins, however Unsulphated GAGs (hyaluronic acid) do not
+GAGs have a variety of applications within the ground substance:
+Hyaluronic acid is a viscous lubricating liquid which lubricates joints and also fills the eye
+Hyaluronic acid attracts proteoglycans which attach to it through a glycoprotein link, creating complex structures that have various functions such as storing water or elasticity
+Hyaluronidase makes GS less viscous, and is produced by WBC, sperm, and some bacteria
+Chondroitin sulphate supports and provides various functions for bone, skin, cartilage and blood vessels
+Keratan sulphate is found in bone, cartilage, and the cornea
+Dermatan sulphate is found in skin, tendons, blood vessels, and heart valves
+Protein Fibres
+There are 3 different types of connective tissue fibers found in the ECM
+Collagen fibres, which are thick, strong, but flexible to resist pulling forces
+Most abundant protein in the body, features vary based on water content and other factors
+Found mostly in bone, cartilage, tendons, and ligaments
+Reticular fibres, composed of collagen in fine bundles with a coating of glycoprotein
+Made by fibroblasts, also forms the basement membrane, and spreads across tissue
+Elastic fibres, which are thinner than collagen and often consist of elastin surrounded by the glycoprotein fibrillin, which strengthens and stabilises it
+Can be stretched 150%, found in skin, blood, and lungs
+Fibroblasts
+Migratory, and found widely distributed in CT
+Function by secreting components of the ECM (fibres and GS)
+Adipocytes
+Found under skin and around organs, storing fat in the form of triglycerides
+Macrophages
+Mesenchymal Cells
+
+Loose connective tissues
+Areolar CT is the most common form of CT
+It has all 3 type of fibres present (collagen, reticular, and elastic)
+Adipose CT is dominantly made of adipocytes 
+White adipocytes have a central triglyceride droplet
+Brown adipocytes are responsible for producing heat
+Dense regular CT
+Makes up tendons, ligaments, and aponeuroses, mostly made of collagen fibre, meaning it takes long to heal
+Supporting CT is cartilage
+Osseous tissue (bones)
+Compact bone (cortical bone) is on the outer layer of the bone, and is composed of many rod shaped units called osteons or haversian systems
+Spongy bone (cancellous bone) lacks osteons and is porous on the inside of bones
+Cortical bone is made of osteons, which have a calcified ECM as a result of mineralisation
+Osteogenic cells are mesenchymal stem cells of the bone
+They become osteoblasts, and begin laying down collagen, and start mineralisation
+These finally become osteocytes which maintain bone tissue and exchange nutrients and wastes (they also have gap junctions)
+Osteoclasts are large multinucleated cells, formed from the fusion of blood monocytes, and their purpose is to break down bone
+Osteoclasts reabsorb dead bone
+Chondroblasts lay down hyline cartilage callus
+Osteoblasts lay down new bone
+Osteoclasts remodel it
+
+
+13/03 Lecture 5
+LO - Run over all previous lectures
+
+People are stupid
+Nose wiggling is our secret 107 greeting
+
+Lecture 6 notes
+
+All organisms are made of cells, it is the basic unit of structure/organisation, and only cells can make cells
+All cells have these in common:
+DNA is the heritable template, RNA is the messenger and proteins are the structure/workers
+Same functions and arrangements of major organelles
+ATP is their energy source
+Prokaryotes have a plasma membrane (PM) cytosol, RNA, DNA protein and ribosomes, and also lack a membrane around the nucleus
+Eukaryotes have all of that and membrane bound organelles, along with a membrane-bound nucleus
+Cytoplasm is everything within the plasma membrane, except the nucleus, made of cytosol (water and suspended materials)
+Major organells are:
+Mitochondria
+Ribosomes
+The rest are part of the endomembrane system
+Nucleus
+Endoplasmic reticulum (ER) - smooth (SER) and rough (RER)
+Golgi apparatus
+Lysosomes
+Plasma membrane 
+Semipermeable
+Made of phospholipid bilayer
+Acts as a barrier separating inside and outside
+Plasma membrane has 2 types of proteins
+Peripheral proteins are not embedded in the membrane
+Integral proteins are embedded into the membrane
+Transmembrane proteins are integral proteins that span both sides of the membrane
+Membrane proteins have a variety of uses, including transport, enzyme activity, signal transaction, cell signalling (using glycoproteins), cell junctions, and attachment to the ECM (using fibronectin)
+
+18/03 Lecture 7?
+
+Recap on the last lecture
+In the cytoskeleton: 
+Microtubules are ~25nm and made of alpha/beta tubulins, intermediate filaments are ~8-12nm and made of all sorts of proteins and microfilaments are ~7nm and made of 2 actins
+All contribute to cell structure
+Microfilaments contribute to amoeboid motility
+Intermediate filaments are the least dynamic and contribute to the location or organse
+Microtubules are responsible for cell division and transport of organelles
+
+ATP synthesis
+ATP produces energy when turned into ADP
+Anabolic reactions use this energy to create complex molecules (glycogen, proteins, triglycerides) from simple molecules(glucose, amino acids, glycerol, fatty acids) (releasing heat)
+Catabolic reactions break complex molecules into simpler molecules to produce ATP
+The main fuel source we are looking at is carbohydrates, which are broken down into simple sugars
+Substrate phosphorylation is when an enzyme catalyses the transfer of a phosphate group to ADP from a phosphor-containing substrate
+Oxidative phosphorylation requires oxygen and is generated from the oxidation of NADH and FADH2 and the subsequent transfer of electrons and pumping of protons
+
+20/03 Lecture 8
+LO - describe the overall method of cell signalling, two major cell surface receptors, signal transduction via phosphorylation cascade, and the role of two main secondoary messengers, along with giving examples of cellular activities as outputs of cell signaling.
+
+Cells need to produce and react to signals in order to function together
+Local signals involves paracrine signalling and synaptic signalling
+Paracrine signalling involves the secretion of a local regulator by a signaling cell which is detected by target cells
+Synaptic signaling involves neurotransmitters which are received by the target cell
+Long distance signalling involves the diffusal of hormones that travel to other parts of the body
+Signals are recieved by a receptor, which relays the signal to a chain of relay molecules which eventually activate the cellular response, called reception, transduction, and response respectively
+Relay molecules are often proteins that change state when they come in contact with their target molecules, this is often done by phosphorylation
+These “activated proteins” cause functions to occur in the cell (response)
+Receptors for water soluble molecules are bound to the cell membrane
+Receptors for lipid soluble molecules are not bound to the membrane (as these hormones can diffuse directly into the cell anyways)
+G-protien couples receptors (GPCRs) are transmembrane proteins that are bound to the membrane
+They pass the plasma membrane 7 times, and have a variety of different ligands (target molecules to react with)
+The couple with G-protiens which are essentially switches that turn “on or off” depending whether GDP or GTP is bound to it (ganosine triphosphate/diphosphate)
+When GPCR connects with their ligand GPCR bind with the GPCR, replacing the GDP with GTP. G protein then dissociates from the GPCR and connects to the target enzyme, which then exhibits a cellular response while breaking GTP into GDP
+Ligand gated ion channels/receptors involve a “gate” to an ion channel that can be activated by the ligand binding to the receptor enzyme
+Signal transduction pathways are the chain of relay molecules that results in the intended cell response
+This often involves breaking an ADP molecule in order to add a phosphate to a forceeding kinase (a relay molecule) which is called phosphorylation
+This is called the phosphorylation cascade
+Phosphatases are enzymes that remove the extra phosphate from the kinases, resetting the kinases to their original state
+An example of the use of a rection like this is when a GPCR receives its ligand
+
+
+
+24/03 Lect 9
+
+Phosphorylation cascades can be responsible for gene expression
+Gene expression is the process of turning DNA into a functional product (protein)
+This typically follows the path of DNA → RNA → protein
+Gene expression is responsible for the difference between genotypes and phenotypes
+“DNA is the heritable material used to store and transmit information from generation to generation”
+RNA is acts as the messenger of the information in DNA to be used to produce proteins
+RNA uses uracil rather than thymine in its polymerase
+Gene expression has 3 main steps:
+Transcription
+Transcription has 3 steps
+Initiation is where the polymerase binds to the promoter (identifying gene sequence upstream for the polymerase to bond to)
+The promoter contains a TATA box at the very beginning (sequence of T’s and A’s) which begins the binding of a series of proteins called transcription factors including TATA box binding protein (TBP), which acts as an initiation to for the polymerase
+RNA polymerase II binds with the present and some new transcription factors to for, the initiation process
+Elongation follows downstream through the gene, transcribing a strand of RNA
+Termination occurs when the polymerase 
+mRNA processing
+Triplets of NTs code for the 20 different amino acids, along with a stop and go message
+Ribosome builds the protein
+The first MET tRNA bind to its respective triplets, the go message, holding a methionine
+A GTP molecule is used to to attach the ribosome here, with the initial tRNA at the P site
+tRNAs holding their amino acids will bond to their respective codon in the mRNA in the A site
+This uses a GTP to increase accuracy and efficiency as there are many tRNAs to try
+After the GTP is used the tRNA locks into the mRNA and bonds its peptide with the already formed chain, and the chain attaches to the new tRNA
+Another GTP is used to move the new tRNA into the P site and kick the old tRNA out of the ribosome
+Empty tRNAs are given a new aminoacid in the cytoplasm using aminoacyl-tRNA sythestases
+A release factor protein will eventually bond to the stop codon, which causes a hydrolysis, where the tRNA finally splits with the polypeptide, and uses 2 GTP to split the ribosome and release factor from the mRNA
+Polypeptides have an amino end and a carboxyl end, which matches 5 → N and 3 → C
+The peptides/polypeptides formed by the process will immediately start folding to form structures
+Secondary structures are formed nearly immediately, which include alpha helixes and beta sheets, and are held together with weak hydrogen bonds
+Tertiary structures are 3D shapes, and are stabilised by side chain reactions
+Quaternary structures are formed from multiple tertiary structures (protiens/polypeptides) 
+Proteins are effectively the same as polypeptides, but they function based on their shape rather than just their chemistry
+Endomembrane carries vesicles of proteins out of the cell
+All translation begins on free ribosomes in cytosol , but some of these proteins need to complete their translation fixed onto the RER
+In order to distinguish between RER vs cytosol local proteins, a signal peptide will be the first structure to be formed in translation
+A signal recognition particle (SRP) will bind to the signal peptide, and inhibit the translation until bound to a translocation complex on the membrane of the RER
+The SRP then breaks away from the translocation complex, and the ribosome resumes translation, forming the protein on the inside of the membrane while remaining itself on the outside
+When translation is complete a cleaving enzyme cuts off the signal peptide, allowing for the final conformation of the polypeptide, which may be transported with a vesicle out of the cell
+After the molecule is translated inside or out, there are still 100s of post translational modifications that may occur, such as phosphorylation, methylation, acetylation, biotinylation, carboxylation, carbohydrate addition, cleavage, and ubiquitination (combination of smaller proteins to larger ones)
+
+
+25/03 Lecture 10
+LO: cell division
+
+Cells in the body share the same dna, and can be programmed to grow/divide, live without dividing, or die
+As they share the same DNA, different signals tell them to operate differently
+Eukaryotic cell cycle
+Somatic cells divide to produce a copy of itself
+Not all cells divide, some are made to remain as-is
+Most cells are in interphase
+G1 or gap phase 1 is just after the cell has divided, where it duplicates its organelles
+Most cells that don’t divide stop here
+S or interphase is the duplication of all of its DNA
+G2 or gap phase 2 checks everything and enters the mitotic phase where everything is prepared and replication of centrosomes is complete
+In mitotic phase the centrosomes from a mitotic spindle
+In prohpase the mitotic spindle gathers now condensed chromosomes
+In metaphase the centromeres line them up on a plane, and anaphase begins separating the chromosomes onto each side
+In telophase the cell begins to divide
+Interphase dna replicates, prophase dna condenses into “sister” chromatids, metaphase chromosomes line up, anaphase sister chromatids separate before the nuclear envelope reforms in telophase
+The result of this is 2 perfectly replicated daughter cells
+There are checkpoints along the process
+G1 checks if DNA is undamaged, cell size/nutrition is fine, and the right signals are present, if so continues cell cycle
+If not the cell may exit to G0
+M checkpoint checks if all chromosomes are attached to spindles, if so, continue to anaphase
+Mitosis occurs in ovaries/testes
+Produces gametes (with have a single set of 23 chromosomes)
+Split into meiosis 1 and 2
+In prophase 1, each respective chromosome, while bound to its sister chromosome, binds to their homologous non-sister chromatids (respective other chromosome)
+This is call a tetrad, and DNA undergoes recombination
+Centromere is the point where sister chromosomes cross
+Random assortments of male and female parent chromosomes are separated to each pole adding more crossover
+During mitosis 2, no DNA is replicated, and separation results in haploid cells
+Genetic variation comes from independent assortment, crossing over, and fusion of 2 gametes
+
+27/03
+LO - Mutations and cancer
+
+Most mutated proteins result from mutations in the coding parts of DNA
+Mutations don’t always affect the structure and function of a protein as some DNA is redundant
+Altered DNA is sometimes passed on to future progeny (resulting to a mutation in the entire individual), or just in a local/somatic cell, which does not affect the whole body
+Large scale alterations are caused by chromosomal rearrangement when errors occur during crossing over
+Small scale alterations are caused by the alteration of one or a few nucleotides
+Small scale alterations can be caused by substitutions or insertions/deletions
+Wild type genes are the original, non-mutated gene
+Substitutions can be:
+Silent mutations, which result in the same result with a different nucleotide effectively changing nothing, except for the shape of the RNA
+Missense mutations causes the change of an amino acid and the effect can be estimated by the similarity of the resulting amino acid
+Nonsense mutations occur when a stop is encoded, and most often cuts the protein too short to function
+An insertion or deletion can cause a frameshift
+Frameshifts are bad because if moved by 1 or 2 bases the entire gene is remixed to mean different things
+3 nucleotide pair mutations are safer than 1 or 2 because they do not cause a frameshift
+At the G2 checkpoint, a check is done for the maturation promoting factor (MPF)
+This is created by cyclin, of which has a variable presence throughout the cell’s life, and a cyclin dependant kinase (Cdk)
+A large network of interactions between proteins (called stop and go molecules) are involved at these checkpoints, which are required to stimulate or capable of inhibiting the continuation of cell maturation
+Many factors of these rely on MPF
+If stop or go molecules aren't working it can result in tumors/cancer
+Over activation of proto-oncogenes (genes that stimulate cell proliferation), promote growth that results a tumor
+Deactivation of tumor suppressor genes does not stop a cell from proliferation when the DNA is not in check, resulting in growth that may become a tumor
+
+
+1/04 Lecture 13
+
+Embryogenesis is the creation of an embryo
+Embryogenesis achieves:
+Patterning (cells acquire identity)
+Definition of major axes (anterior/posterior and dorsal/ventral)
+Germ layers are defined (gastrulation)
+Rudiments of the major organs are created
+Gastrulation
+There are 3 germ layers, which include the ectoderm, mesoderm, and endoderm, which are precursors to specialisation to cells found outside, in between and inside the body respectively
+For this lecture, blue represents the ectoderm, red the mesoderm, and yellow the encoderm
+Fertilisation
+Sperm enters oocyte, after meiosis II
+Sperm has to burrow through the cellular radiata (surrounding protective cells), then through a protective layer, zona pellucida
+This produces the zygote
+The cell then undergoes cleavage, where the cell does not grow, but splits into smaller and smaller cells
+At day 4 the group of cells are named a morula
+This soon becomes the blastocyst, which has a hollow cavity on the inside
+Some of the mass groups to one side, which is the embryoblast (forms into the embryo)
+The rest are called the trophoblast and are part of the placenta
+During most of this the blastocyst is moving through the fallopian tubes, then undergoing implantation into the uterine cavity at around 5 days
+After implantation, the syncytiotrophoblast forms (an attachment to the 
+
+Gastrulation
+The fetus now consists of an embryonic disk, an amnion, a yolk sac, and a connecting stalk
+A primitive streak will form,
+Embryonic folding
+Hea
+
+3/04
+
+Amino acids consist of an amino (base) group, and a carboxyl (acid) group, along with their differentiating side chains
+Each amino acid is held together by a peptide bond (R - COHN - R
+The breaking of this bond is a hydrolysis reaction, and  formation of this bond is a dehydration reaction
+Proteins have an end terminus on each end, called C and N, representing 3’ and 5’ respectively
+The primary structure is an unfolded sequence of amino acids
+The secondary structure involves the folding of polypeptides into alpha helices and beta sheets
+Turns in the alpha helices are held by H bonds between the side chain of neighboring turns
+Beta sheets are chains from the same polypeptide that face opposite directions, and are bonded by H bonds between their side chains
+Beta sheets are often represented parallel arrows pointing in the direction of the sequence
+Tertiary structure fold when the non-polar (hydrophobic) side chains interact with the aqueous environment and the interior of the protein (the hydrophobic effect)
+Globular proteins have a condensed limited shape, whereas fibrous proteins are long spindles that extend longitudinally
+Quaternary structures are made of multiple proteins formed together 
+Enzymes work as catalysts by attracting and holding molecules in positions that increase the chance/rate of the intended reaction, and always end in the same state as they started afterwards
+Electrostatic interaction also maintains protein structures, and are fairly strong, made of 2 of the 5 charged amino acids
+Disulfide bonds are formed between cysteine when they dehydrate and form an S - S bond
+Hydrophobic interactions cluster non polar sides away from water, and are reasonably weak but there are many of them
+Denaturation occurs due to changes in ph, salt concentration, and temperature
+Thermal irreversible denaturation occurs when new disulfide bonds are formed after the protein is unraveled
+Changes in ions in water (pH) can interfere with electrostatic bonds
+Salt concentration increases the chance of electrostatic bonds bonding to Cl or Na ions
+Protein shape can be determined by X-ray crystallography, which grows a crystal made of the protein and measures the diffraction shape
+Cryo electron microscopy and NMR are also useable
+
+7/04
+
+The fluid mosaic model of membrane structure
+Membrane structure is a thin 8nm flexible/sturdy barrier around cytoplasm
+The fluid mosaic is a model of membrane structure that describes:
+A sea of lipids which suspend proteins
+Membrane is 50% lipids, 50% proteins
+Held together by H bonding
+Lipids are barrier to entry/exit of polar substance
+Proteins regulate permeation
+Lipid bilayer = bilayer of 3 types of lipids back to back
+Cholesterol and glycolipids scattered among mostly phospholipids
+Phospholipids are 75% of all lipids, and are amphipathic (polar and nonpolar end), with polar heads and nonpolar tails, touching on the interior non-polar tails
+The produces a hydrophobic core, which produces selective permeability
+Lipids are mostly able to move around as membrane is a fluid structure, however their polarity means they rarely flip between leaflets, and leaflets can be asymmetric
+Larger tail length produces less fluid membranes
+More double bonds increases fluidity
+More cholesterol decreases fluidity
+Membrane proteins are bonded to the cell membrane
+Integral proteins extend into or across the whole membrane (latter being a transmembrane protein)
+Peripheral proteins attach to the surface of either side of the cell membrane and are easily removed
+Integral proteins are also amphipathic in order to remain in the lipid bilayer, with a group of hydrophobic amino acids coiled into helices that spans the lipid bilayer
+Membrane proteins can be receptor proteins, links between other cells, identity markers, enzymes, ion channels, and transporters
+How the molecular structure of the membrane results in selective permeability
+The “molecular organisation” of the membrane produces selective permeability
+The lipid bilayer is permeable to:
+Nonpolar molecules (O2, N2)
+Lipid soluble molecules (steroids, fatty acids, and vitamins)
+Small uncharged polar molecules (H2O, urea, glycerol, CO2)
+Not large uncharged polar molecules (glucose, amino acids)
+Not ions (Na+, K+, Cl-, Ca2+, H+)
+Diffusion is the random mixing of particles in a solution as a result of the particles’ kinetic energy
+Occurs towards the lower concentration/favoured electronegativity (with the gradient)
+Steeper gradient = faster
+Higher temperature = faster
+More surface area = faster
+More distance = slower
+Diffusion means cells can be ~20 microns max
+Cells can increase diffusion by increasing membrane area
+Thicker membranes are slower at diffusion
+Ions will be influence by both concentration and potential across the membrane
+How the composition of the different fluid compartments act to store energy
+When ions are separated by the membrane, the bilayer separates charge (like a capacitor)
+Allowing the layers to mix produces energy
+Cells use ~30% of rest energy to maintain concentration/electrical gradient
+The laws of diffusion that govern movement across cell membranes
+Osmosis occurs towards an area with high solute concentration
+Only occurs in semipermeable membranes the cannot permeate the target solute
+Permeability to water (Pw) is equal to bilayer permeability + water channel permeability (Pw = Pd + Pf)
+Pf is large, mercury sensitive, and temp dependent, and Pd is vice versa
+Pf is mediated by aquaporins, and cells express different aquaporin isoforms
+
+
+
+8/04 Lecture 16
+
+Passive and active transport
+Non-mediated transport doesn’t use a transport protein, whereas mediated transport does
+Passive transport moves with the gradient, whereas active transport uses energy to drive against it (usually ATP)
+Vesicular transport uses vesicles
+Non-mediated is usually responsible for absorption of nutrients and excretion of waste, and movement of substrates that are permeable through lipid bilayer
+Ion channels are filled with water and lined with hydrophilic amino acids catered towards the type of ion they intend on allowing to flow
+Ion channels are rapid
+Having selective channels allows the cell to harness the concentration gradient of multiple different ions
+Channels contain gates that can be opened/closed by different stimuli, such as voltage, ligands, cell volume (stretching of a cell), pH, and phosphorylation
+Ion channels can be measured by the “patch clamp” technique, where a single channel is isolated and the current is measured 
+Diffusion of over 1 million ions per second can generates a current ~1 picoamp (1 trillionth)
+Fluctuations represent opening/closing of the channel, i.e conformational changes of the channel
+Carrier mediated transport uses the substrate as the ligand that periodically opens  to the other side, i.e the molecule moves into the transporter from the interior of the cell, after binding to the transporter, it closes the interior side and opens the exterior, allowing the substrate to leave, then resetting to accept from the inside
+These conformational changes make it much slower than channels
+Carrier mediated transporters are similar to enzymes, as they can exhibit specificity, inhibition, competition (molecules have priority/compete to attach to the protein), and saturation (maximal rate or transport)
+Carrier mediated transport proteins do not catalyse reactions, and can be passive-facilitated, or active diffusion
+Transporters kinetics are the same as enzymes’
+In glucose transport:
+Glucose bind to GLUT transporter
+Transport protein moves glucose across cell membrane, only with concentration gradient
+Kinase enzyme turns glucose into glucose 6-phosphate to prevent concentration gradient from increasing (g-6-p cannot go back through the same proteins
+This kinase maintains concentration gradient via use of energy
+Active transport requires energy to move molecules/ions against their respective gradients
+Primary active transport uses energy from ATP hydrolysis, and is responsible for around 30% of the average cell’s  ATP consumption
+Secondary active transport uses energy stored in an ionic concentration gradient through symporters that can only transport one particle along with another particle
+Na/K ATPase is an example of primary active transport:
+3 Na+ ions enter the transporter
+An ATP is used to expel 3 Na+ to the extracellular fluid
+2 K+ ions enter the transporter from the EF, dephosphorylating the transporter
+2 K+ enter the cell following the concentration gradient
+Net -1 charge creates a current and is electrogenic
+Other examples of this are Ca/K ATPase and H/K ATPase
+Na pump reduces the concentration of Na+ in the and increases K+ concentration in the cytosol
+This is important for electrical excitability, maintaining resting membrane potential, muscle contraction, cell volume maintenance, nutrients uptake (via secondary transporters, and pH maintenance
+
+Lecture 17
+LO - epithelial transport of glucose
+The role of tight junctions
+Epithelial cells are sheets of cells on a basement membrane that form a boundary and are are constantly renewed
+Intracellular/paracellular space is in between the sides of cells
+Tight junctions seal the paracellular space
+Only certain particles are allowed through certain tight junction proteins
+The restriction is correlated to the number of proteins packed in an area
+Tight junctions also restrict membrane proteins to certain sides of the membrane
+This separates the cell to an apical layer and basolateral layer (or domain)
+Transcellular and paracellular transport
+Transport can be transcellular (through the cell) or paracellular (intracellular space thru tight junctions
+Paracellular transport is governed by the tightness of the junctions, where the resistance can be measured via voltage and current
+More resistance = more junctions
+Leaky epithelium is mostly governed by paracellular
+Tight epithelium is mostly governed by transcellular
+On the proximal end of the GI tract/kidney:
+Leaky epithelium
+Low resistance
+Low number of strands
+Bulk transport (paracellular)
+On the distal end of GI tract/kidney:
+Tight epithelium
+High resistance
+High number or strands
+Hormonally controlled (as transcellular)
+Transcellular can be controlled by hormones, and is primary or secondary transport, often controlled by ion channels
+How epithelial cells can mediate absorption or secretion of substances
+Transport can be lumen → blood (absorption) or blood → lumen (secretion)
+Consider:
+Entry and exit to the cell switches sides in absorption vs secretion, being apical for absorption and basolateral for secretion
+The electrochemical/osmotic gradient should also be considered, the gradient must be followed for the transport to be passive
+The movement of an ion will also attract a count ion
+Same can be said for osmosis, ion movement will result in water movement (if permeable due to aquaporins)
+Moving ions without water required low water permeability
+Different collections of transporters and channels can mediate absorption or secretion
+Mechanism of transepithelial transport:
+Primary transport sets up an ion gradient
+Always* blood → cytoplasm
+Usually sodium/potassium ATPase
+Entry steps are (usually) secondary transport
+This is from lumen for absorption or from blood for secretion
+Exit step is usually passive
+This is into blood for absorption and lumen for secretion
+Water and counter ions move through paracellular pathway
+Determined by junction tightness
+Glucose absorption in small intestine:
+Setting up ion gradient (primary) = Na+/K+ ATPase expels 3Na+ and absorbs 2K+ against Na+ gradient (to: blood)
+Entry step (secondary) = SGLT1 (sodium glucose cotransporter) pulls in 1 glucose per Na+, down Na+ gradient, up glucose gradient (from: lumen)
+Exit step (passive facilitative) = facilitative GLUT (glucose transporter) expels glucose down concentration gradient (to:blood)
+Paracellular diffusion (electrochemical/osmotic) = water and Cl-
+Total absorption = Glucose, Na+, water, Cl- (tight junction = permeable ^ isotonic)
+The end result is usually high concentration in the cell with is only able to dissolve into the slightly lower blood concentration (higher than lumen)
+When no glucose is being absorbed, cellular glucose concentration is less than the blood, meaning the GLUT reverses direction
+Oral rehydration therapy uses this process where glucose increases Na+ (therefore Cl-) absorption, and therefore water
+Glucose/galactose malabsorption syndrome
+Galactose is a glucose epimer
+Mutation to SGLT in the intestine lumen
+Osmolarity is increased by the number of particles, so when starch is cut up to many glucose molecules, the osmolarity is high in the lumen
+As glucose isn’t absorbed, osmolarity is high, and water flows into the lumen, causing diarrhea (osmotic diarrhea)
+The treatment is that other carbohydrates are used in the diet, as there are other types of GLUT (GLUT5 transports fructose), this means that a build up of glucose is prevented stopping osmotic diarrhea
+Glycosuria in the kidney
+Blood plasma is filtered before becoming urine
+Glucose is reabsorbed in the kidney to prevent waste
+Occurs in the proximal tubule, where SGLT2 uses secondary transport to pull 2Na+ and 1 glucose into the blood, along with water and Cl- in the paracellular pathway
+If SGLT2 is dysfunctional, glucose will appear in the urine, called glucosuria
+Can occur due to diabetes oversaturating SGLT2, resulting in excess in the urine
+This point of saturation (200mg/ml) is called the renal threshold, where glucose transport reaches 375mg/min and plateaus, which any excess then increases in the blood
+Lecture 18
+LO - understand the mechanisms of chloride transport/Cl- secretion, using the sodium potassium chloride cotransporter, and learn about secretory diarrhea and cystic fibrosis
+
+Chloride secretion
+Setting up ion gradient (primary) = Na+/K+ ATPase expels 3Na+ and absorbs 2K+ against Na+/K+ gradient (to: blood)
+Entry step (secondary) = NKCC (NaK2Cl symporter) pulls in 2 Cl- per Na+ and K+, down Na+ gradient, up K+/Cl- gradient (from: blood)
+Exit step (passive facilitative) =  CTFR expels Cl- down concentration gradient (to:lumen)
+K+ exits via channel, Na+ exits via NaKATPase, reducing the electrochemical gradient in cell
+Paracellular diffusion (electrochemical/osmotic) = water and Na+
+Total secretion = Cl-, Na+, water (tight junction = permeable ^ isotonic)
+Cl- cannot leave unless CFTR is opened ^ the opening of the gated channel is the rate limiting factor in Cl- secretion
+Cl- channel is called the CFTR (cystic fibrosis transmembrane conductance regulator) because cystic fibrosis was discovered before the channel was identified
+Secretory diarrhoea
+Caused by excessive stimulation of the CFTR
+This can be due to too many ‘endogenous secretagogues' /mb/ tumors or inflammation
+Usually however it’s due to enterotoxins /mb/ bacterial infection
+Enterotoxins irreversibly activate adenylate cyclase, which is part of the pathway in stimulation of CFTR
+The pathway that it modifies originally starts with a GPCR, which when activated by a secretagogue produces cAMP (cyclic AMP)
+When enterotoxins activate it, cAMP is constantly produced, maintaining the stimulation of CTFR
+Villi are split into two parts
+The top half is called the villus and mostly performs absorption
+The bottom half is called the crypt mostly performs secretion
+They are made of the same cells, and just move up over time
+Oral rehydration is an effective treatment to counteract the water lost to secretory diarrhoea
+Cystic fibrosis
+Genetic disorder affect children and young adults
+Recessive gene, meaning people can be carriers
+Children of 2 carriers have a 1/4 chance of inheritance
+~ 1 in 2500 northern europeans have it, and ~ 1 in 25 are carriers
+Other ethnic groups have less
+Many symptoms:
+Clogged airways
+Mucous and infection in lungs (largest cause of mortality)
+Blocking of bile ducts in liver
+Obstruction of ducts in the pancreas
+Blocking of the intestine
+Reduces male fertility (less plasma)
+Large amounts of salt in the sweat
+All related to fluids in epithelial cells
+Treatments include antibiotics, chest percussion to clear mucous, pancreatic enzyme replacement, nutritional management
+The median survival age is 38
+CF is heavily related to salt loss
+CFTR consist of a channel part, 2 nucleotide binding domains, and a regulatory domain
+The regulatory domain blocks the channel (R domain)
+CFTR is highly regulated in order to prevent water loss
+cAMP activates protein kinase A and phosphorylates R domain, ATP then binds with NB domain, opening channel through conformational change
+When CFTR channel is absent or defective, chloride secretion is prevented, and thus fluid secretion is also prevented
+It also increases sodium absorption
+With less fluid secretion, mucous is too thick to move pathogens/other unwanted substrates
+This can cause infection, then inflammation, which then causes a positive feedback loop as it prevents mucous expulsion
+People with CF have very salty sweat
+Isotonic secretion of fluid occurs in acinar cells, which then reabsorbs the salts to prevent loss
+This reabsorption occurs in the ducts, and is defective in CF
+In the secretion of CL, there are multiple types of channels it can use, and it follows the regular system (NKCC)
+The reabsorption usually relies on the passive transport of Na/Cl through the apical layer of the duct, which does not contain aquaporins, meaning the ions are absorbed but not the water
+The Na is swapped for K in an ATPase, which allows the inflow of more Na, and K leaves the cell due to concentration gradient, leaving Cl to leave the cell due to an electrochemical gradient
+Na enters with electrochem gradient → atp moves Na out, against conc, K moves in, against conc → K moves out with conc gradient → Cl moves out with electrochem, against conc
+When Cl doesn’t move in
+
+
+5/05 Lecture 20
+LO - introduce ideas of blood and immune systems
+
+Blood composition
+55% of blood is plasma (lightest), and 45% is RBC (heaviest), WBC, and platelets
+WBC fight infection, RBC (no nucleus) carry oxygen
+Platelets are membrane enclosed around cytoplasm, and aid clotting
+WBCs (leukocytes) can be lymphocytes, neutrophils, monocytes, basophils, and eosinophils
+Neutrophils are phagocytes, most common WBC, made in marrow, multilobed nuclei
+Lymphocytes can be B or T cells
+Monocytes ‘scavenge’ for pathogens
+Immune system has 2 functions; identify what parts are foreign, and seek and destroy what is foreign (ICE)
+Some definitions
+Pathology: the study of diseases and how they progress
+Pathogen: something that causes a disease, for example bacteria or virus
+Immune System: a system of defenses to stop invading pathogens
+Immunogenic: something which induces an immune response in the body, this can be a humoral (antibody) and/or cell-mediated immune response
+Antigen: a molecule which induces an immune response via a lymphocyte, pathogens have many antigens on their surface
+Antibody: a molecular component of the immune system that recognizes and binds (interacts with) antigens
+Pathogens can be breathed in, eaten, or enter a cut
+Innate immunity is always deployed, not specific to the pathogen, and involves 2 lines of defence
+Adaptive immunity is specifically activated by exposure to certain pathogens (3rd line of defence)
+The first line of defence is physical; skin, secretions, mucous membranes
+These are called external innate defenses, and act as a physical barrier, simply just a wall
+The second line of defence is internal, including innate immune cells (phagocytic cells, natural killer cells), defensive proteins, and inflammatory response
+Increases blood vessel permeability due to histamine release, pathogens are absorbed and destroyed, basically cleanup and repair
+In phagocytosis, bacteria are absorbed, a lysosome digests it, and soluble debris is excreted
+Third line of defense depends on lymphocyte B cells and T cells, and antibodies
+T cells directly attack pathogens, whereas B cells produce antibodies
+They both have receptors that detect antigens (found all over pathogens)
+The cells can be activated to reproduce/produce an immune response
+B cells /mf/ and specialise in the bone marrow
+B cells /m/ in the bone marrow and mature in the thymus
+Their specificity is randomly produced by rearranging the genes coding for B/TC receptors
+Antigens invoke immune response, and react with the cells/antibodies it provokes
+Memory B/TC live for decades in lymph nodes, and will mass reproduce when activated again
+The individual parts of the antigen that is recognised are epitopes
+Antibodies usually bind to immunodominant nucleocapsid and spike antigens, and are used most in serology
+Serology uses detection of antibodies to find whether an infection happened previously
+Serosurveys can be applied to entire populations, and develop data about general immunity to pathogens
+
+Lecture 21
+LO - composition of blood
+
+Circulatory system
+5L of blood, with 14,000L circulating every 24hr
+Vena cava → small right atrium → bicuspid valve → right ventricle → pulmonary arteries → lungs → pulmonary vein → left atrium → mitral valve → left ventricle (pressurising)
+Wider veins = more flow, less pressure
+Arteries apply pressure (why blood squirts)
+Oxygenated blood is deep red
+Blood pressure is usually 120/80, which is measured in mmHg (amount of pressure to raise mercury 120 mm in a sphygmomanometer
+Lower number (diastolic pressure) is with no heart, higher number (systolic pressure) is when the heart is beating
+When the pressure it places is too much, blood flow (making a noise) stops, and at 80 it doesn’t change the sound at all
+High BP is hypertensive, at risk of capillaries rupturing, abnormal clotting, and strokes
+Hypertension is anything over 130
+Lungs have many alveolus, where blood flows by, dropping CO2 and gaining O2
+Oxygenated blood is bright red (oxyhaemoglobin) and frothy
+The oxygen is replaced with a carbon dioxide creating carbaminohemoglobin
+Haemoglobin is made of 4 haem proteins, and is red due to the Fe2+ in the center of each haem
+When under higher pressure, oxygen is favoured for binding to haem over CO2
+In the air, lungs, and arterial blood, pO2 is greater than pCO2, but in the tissue and venous blood pCO2 is higher
+Cyanide (cherry red but blue lips?) and CO (pinkish) both have higher priority than O2
+Cyanide does not unbind haem, and inhibits electron transport, causing pretty instant death
+Major components of blood
+Erythroid cells carry oxygen via haemoglobin, no nucleus
+Myeloid cells give innate immunity
+Lymphoid cells provide adaptive immunity
+Platelets prevent blood clotting
+Albumin is ~50% of the proteins in blood, and acts as a buffer to prevent changes in osmolarity and pH, along with binding to many small molecules
+Fibrinogen clots the blood by producing fibrin when proteolytically cleaved
+Immunoglobulins provide immunity
+There are many smaller proteins
+Lipids are bound to lipoproteins, which can be found in plasma, which can be high, low and very low, called HDL, LDL, and VLDL
+HDL is good, LDL is bad
+Makes blood white
+There are also electrolytes, vitamins, hormones, and glucose
+When centrifuged, 55% of the tube will be plasma, 45% of the tube will be red blood cells, and the ‘buffy coat’ will be WBC and platelets (not exact numbers)
+Cell types
+Haemotoxolin and eosin stains will distinguish the cells in the blood
+Erythrocytes are ~5-6 million/ml
+Leukocytes are ~10,000/ml
+Platelets are ~400,000/ml
+Monocytes (innate) become macrophages when activated, and is very potent/phagocytic
+Neutrophils (innate) are very mobile and phagocytic
+Eosinophils and basophils (innate) contain cytotoxic compounds which kill things that cannot be phagocytosed
+Lymphocytes can be T cells or B cells! No way!
+Hematopoiesis is the origin of blood cells
+All blood cells originate from a hematopoietic stem cell
+Myeloid stem cells produce everything but T cells, B cells, or ‘natural killer cells’ (large granular lymphocyte)
+Lymphocytes create natural killers, (B)lood cells and (T)hymus cells
+To cure leukemia, bone marrow cells are isolated, hematopoietic stem cells are extracted, radio/chemo oblation kills off white blood cells, and then the stem cells are replaced, and repopulate the body
+Cell separation methods
+Hematopoietic stem cells are called CD34+ because they have the CD34 antigen (protein)
+CD stands for cluster of differentiation, and is mainly a cell signalling marker
+Can be used to purify the cell
+The detection of these antigens is called immunophenotyping, and can be used to bind with CD34 cells
+CD3 is a T cell, and CD19 is a B cell
+T cells have a CD4 type and CD8
+Low CD4 is a symptom of AIDS
+CDs usually bind to a monoclonal antibody (mAB)
+CDs can be stained
+There are 2 types of cell sorting: MACS (immunomagnetic cell sorting) and FACS (fluorescence activated cell sorting)
+In  both, diluted blood sample of blood cells will be passed through a tube
+In MACS, an added magnetic antibody sticks to the CD34 cells
+The antibodies are pulled to a magnet on the sides of the tube, and once the sample has passed, the remaining cells should be CD34
+In FACS, a fluorescent antibody is attached to the target cells
+As the cells pass through a thin tube, a light is shone on the cells
+If the cells fluoresce, it redirects the cells to a different group
+This can be used on multiple groups, and also used to diagnose cell composition
+Coagulation cascade
+Blood that isn’t plasma is called serum
+Plasma has fibrinogen
+There are 2 main activation pathways to coagulation, intrinsic and extrinsic
+Factor X is a share factor of both pathways
+The intrinsic pathway has 4 factors (excl. X), and extrinsic has 2 + platelets and tissue factor
+These factors are called zymogens, which are proteolytic enzymes that are stable until cleaved by the preceding factor
+After being cleaved, they become an active protease and cleave the next step in the cascade
+Factor VIII is missing in haemophilia
+Factor X cleaves prothrombin into thrombin, which then cleaves fibrinogen into fibrin
+Plasminogen a zymogen which becomes plasmin when activated, and can digest fibrin
+Tissue plasminogen activator is administered to treat myocardial infarct and pulmonary embolisms
+Leeches and mosquitoes stop thrombin from cleaving
+Calcium is required for many of these steps
+
+Complement system
+Chemoattraction is the process which allows neutrophils to chase pathogens
+This occurs when complement proteins coat a bacteria (called opsonization) and attract the neutrophils
+9 major complement proteins attach to bacteria in a cascade
+These are constantly dissolved in the blood and attach first to an antibody
+The cascade of attachments builds a very stable enzyme complex which eventually forms a “lytic pore” called the MAC (membrane attack complex)
+Complement 3 is the most abundant in the blood
+There are 3 complement cascade pathways, the first 2 originating from IgM or IgG antibodies binding to C1
+The lectin pathway directly activates C3 when recognising a unique sugar on the bacteria
+The build complexes are called convertases and activate more complement in an amplification loop via the alternate pathway
+Convertases are irreversibly bound through a covalent bond
+Cleaving C3-5 produces C3a-5a, which are chemoattractants called anaphylatoxins that attract/activate phagocytes
+The classical antibody pathway is mediated by antibodies
+These antibodies stick to the surface of a bacteria, with their conserved regions point upward
+These bind with complement C1, which then draws in more complement enzymes, which are all proteolytic (cleaving)
+These are highly selective, C4 is cleaved, forming active C4a, which cleaves C2, forming active C2b, then C3 forms a large complex cleaving into C3b and C3a
+C3b then cleaves C5 into C5a/b, C5b goes on to form the MAC
+Neutrophils have complement receptors, CR1-4
+CR1 detects C3b, activating the cell
+
+Lecture 22
+LO - discuss innate immunity and its features
+
+Neutrophil extravasation
+There are 5 steps that take just minutes after the first tissue injury
+Activation is when chemokines from opsonization, tissue injury or activation activates capillary endothelial cells
+Tethering is when the neutrophil slows down and attaches to the inside capillary wall
+Mediated by selectins and is regulated by a carbohydrate called sialyl lewis X (sLeX)
+Adhesion is when the neutrophil integrins bind with ICAM-1 on the endothelium, stopping and flattening
+Diapedesis is when the neutrophil squeezes between the cells into interstitial space, allowing the neutrophil to perform the last step;
+Chemotaxis, where the neutrophil follows the chemokine gradient to the site of infection
+Neutrophils have Fc receptors which bind with the Fc region of antibodies
+These antibodies are bound to a bacteria, meaning the neutrophil can pull it in using the Fc receptor
+The membrane the invaginates, forming a phagosome (chamber holding the opsonized bacteria)
+The lysosome then fuses with the phagosome, forming a phagolysosome, which then acidifies and superoxides kill the bacteria
+When the digested remains are excreted it is called exocytosis
+Tuberculosis often resists this digestion and lives inside phagocytes
+Pattern recognition
+Pattern recognition receptors (PRR) recognise molecules unique to pathogens, called PAMPs (pathogen associated molecule patterns)
+PAMPs are usually very complex, and evolutionarily stable (won’t change over time), usually being essential for these pathogens to function
+PRRs determine what type of infection to respond to
+The best known PRR are the Toll-like receptors (TLR)
+Named after their similarity to molecules responsible for patterning in developing drosophila (hence toll genetics)
+Mice without TLR couldn’t respond to lipopolysaccharide (LPS), because TLR bonds to LPR
+TLR is a complex that forms an activation response when MD-2 bonds with LPS and TLR4, then bonding to another creating a dimer
+NFKB (nuclear factor kappa-b) regulates this process
+TLRs can detect viruses, bacteria (gram-positive/negative), fungi, and protozoa
+PAMPs can recognise 
+Viral: glycoproteins, DNA, RNA
+Gram-positive bacterial: DNA, lipoproteins, peptidoglycan, lipoteichoic acid
+Gram-negative bacterial: DNA, porin, peptidoglycans, LPS
+Fungal: zymosan, mannan, beta-glycan
+Protozoic: DNA, “GPI anchors”
+TLR4 binds to LPS which is found in gram-negative bacteria, and induces a powerful innate immune response
+LPS is called a pyrogen (chemical that results in a fever), and is very potent
+LPS release triggers septic shock
+
+
+Lecture 23
+LO - origins of adaptive immunity, immune memory, Ig domain structure, 5 antibody classes, lymph system basics, vaccinations, genetic recombination, affinity and avidity of receptors
+
+Adaptive immunity and long term acquired immunity describe the same thing
+Antibodies are the humoral part of adaptive immunity
+Evolved around 500 million years ago, earliest example is Agnathans (lamprey and hagfish)
+Every species since then has some form of acquired immunity, its earliest form is an immune repertoire
+Rearrangement in B and T cells is identical to transposition, which is a process when genes shift their position in the genome, which is common in bacteria and plants
+These genes are called virulence genes, and can provide more range/diversity in simple genes such as bacterias’, which are also able to swap these genes with each other
+Transposition has 2 key factors, the first of which is a transposease or recombinase enzyme, which recognises and cuts specific DNA sections
+The second is the recognition sequence in the DNA which allows the recombinase to recognise it
+Adaptive immunity allows the immune system to respond faster and more effectively, allowing potentially life-long protection
+(measles is an example of a virus vaccinated against)
+Billions of naive B/T cells are produced as a repertoire that all have slightly different genomes, producing/detecting slightly different antigen specificity
+The diversity is produced by genetic rearrangement and recombination in the genetic loci that code for B/T antigen receptors
+The affinity of a B/T cell increases over the time/persistence of a pathogen, this is called affinity maturation
+Ig stands for immunoglobulins, which are formed from a repeated unit called an Ig domain
+The Ig protein fold is around 110 amino acids in length, and is called a beta-barrel
+It is formed by 2 antiparallel B-sheets that form a barrel shape with a disulphide bond in the middle, and there are 4 (3 important) loops connecting the sheets on the ends
+The loops are very unconstrained, meaning the sequence can be different while maintaining the shape
+IgG is a Y-shaped molecule with 2 heavy chains (4 Ig domains each) and 2 light chain (2 each)
+Both light chains are connected to their respective bond by a disulphide bond, and the heavy chains are connected by a disulphide bond
+The heavy and light chains are genetically identical to themselves (not eachother) and coded by the HC locus and LC locus
+The end with with the light chains are the Fab (fragment antigen bind) connects to the antigen
+The heavy chain end is the Fc region (fragment crystalline) effector
+The heavy chain has 3 constant domains and 1 variable, and the light chain has 1 constant and 1 variable, the variable regions line up
+There are 5 antibody classes, following the mnemonic GAMED, and differ by the heavy chain gene used for the Ig (the gene uses the greek letter of the respective Ig)
+IgM: default Ig made by naive B cells and membrane bound
+IgG: most abundant, after B cell undergoes class switching after recognising an antigen
+IgE: least abundant but important for atopic allergy/inflammation
+IgA: found in mucosal secretions; first line of defense
+IgD: important for B cell differentiation
+IgG/M can cross the placenta
+IgM has a monomer and a soluble pentamer form
+The pentameter form has 10 binding sites, which allows high avidity binding (more attraction)
+Affinity is present when the attractive molecular forces exceeds the repulsive forces
+The higher the affinity, the less units of the antibody per volume are required to find antigen
+Higher avidity is a result of multiple contacts, multiple binds can bind with forces orders of magnitude larger, and is much more important in the early stages of the immune response
+There are >1011 different antibodies, which is possible through gene recombination
+This variability is due to areas of the Ig varying, caused by the 3 highly variable loops (CDR1-3) that connect B strands in the V domain of the antibody
+These loops form 6 total hypervariable loops in the Vh and Vl region, forming the antigen binding surface
+Gene recombination occurs by the cell picking from a range of Variable, Diversity, Joining, and Chain segments
+For the H gene locus there are ~100 Vs, 27 Ds, 6 Js, and 8 Cs, and for the L gene locus, there are ~35 Vs, 5 Js, and 1 C
+First D joins J
+Then V joins DJ
+This forms VDJ segment
+In L gene locus first is skipped
+All the rest is thrown out
+The extra variability comes from high imprecision in amino acids joining these segments
+Your genome does not know what pathogens you will interact with, so it makes as many combinations as possible
+Then clonal selection and affinity maturation selects the correct clone and multiplies it
+The low affinity naive B cells will have a B cell receptor (BCR) that reacts to an antigen with sufficient avidity to trigger proliferation
+Random mutations will occur, and will essentially selectively breed for high affinity toward the antigen
+After multiple round of selection, a high affinity, high specificity IgG producing B cell will be produced, keeping some as memory Bs, the rest producing the immune response
+B cells are formed germinal centres, where all of this takes place, inside lymph node follicles
+Vaccinations stimulate this process, producing immunity by specialising B cells, meaning when the actual antigen is present the body knows exactly how to stop it
+Whooping cough can be prevented by the mother being vaccinated (or immune), because the IgG passes through the placenta and immunises the baby
+
+
+Lecture 24
+LO - understand cellular immunity, MHC and histocompatibility
+
+Defense against pathogens
+The difference between T cells and B cells:
+B cells make soluble antibodies which opsonize pathogens
+T cells remain a cell surface receptor, in which they undergo phagocytosis to swallow pathogens
+The thymus is a primary lymphoid organ which sits just above the heart
+Cellular immunity provides defence to pathogens inside of cells, such as viruses and cancers
+Viruses are intracellular pathogens
+Viral cells only produce more viruses and shut down other processes
+Covid’s main protein is the spike protein (receptor on the outside of the cell)
+Covid is an RNA virus, meaning inside infected cells it transcribes RNA, forming the spike protein, forming the new virion protein coat, and the complete RNA inside
+Cellular immunity is designed to pick up when this is occurring and prevent the cell from erupting
+This process is detected when MHC (major histocompatibility complex) pick up small protein fragments (peptides) and then “flags” it on the surface of the cell to T cells
+Effective tissue donations require “tissue typing” because histocompatibility of MHC molecules may trigger immune response (rejection) in T cells
+The recognition of viral peptides in the MHC flag is very esensitive
+Acquired immune deficiency syndrome (AIDS) involves the infection of CD4 subpopulation of T cells with the HIV virus
+HIV slowly reduces T cell population and destroys the immune response, increasing infection rates (which was often the original cause of death from AIDS)
+The thymus is most active during early development because it is forming a T cell repertoire
+Hematopoietic stem cells migrate to the thymus and mature from lymphoid precursors into T lymphocytes
+Only a small percentage survive the thymus and become mature peripheral cells
+In the thymus, your T cells learn the difference between self/non-self, which is called thymic education, which is the first step in immune tolerance (tolerance is what stops your immune system attacking your own cells) which prevents autoimmune disease
+Most T cells are 1 of 2 main functional types: CD4+ (helper, 80%) or CD8+ (cytotoxic 20%)
+Before becoming mature they can be both (double positive or immature thymocytes)
+MHC gives other cells information about processes occurring inside a cell, including displaying viral infections, displaying phagocytosed pathogen’s antigens, or cancerous changes in the cell
+MHC is polymorphic, meaning it is different in every individual
+Human MHC proteins are called human leukocyte antigens (HLA)
+T cells can only recognise antigens in MHC complexes
+When a donation of tissue occurs T cells can reject the tissue due to it being “foreign” because of the polymorphic nature of MHC
+Keytruda (pembrolizumab) is an immunotherapy drug for melanoma that helps T cells better identify cancer signals in MHC cells
+There are 6 main MHC molecules and each are coded by codominant genes
+Because they are polymorphic and any combination of the 12 (6 maternal and paternal) MHC molecules can be used, no individuals share the exact same MHC signals, except identical twins
+When 2 mice were infected with a virus, and the CD8 cells would only react to their own tissue
+T cell receptor (TcR) looks like an immunoglobulin
+TcR detects changes in the molecule shape of the MHC is binds to, which changes as the HLA picks up different peptide antigens
+The polymorphic area of the MHC is the area that holds the peptide, which consists of 2 alpha helices and supporting beta sheets
+There are 2 classes of MHC, class II being much longer than class I
+CD8 binds to class I, and CD4 binds to class II
+These sit next to the TcR and relay to the kinase starting the phosphorylation cascade
+Helper T cells recognise the peptide in MHC II on an antigen presenting cell (APC), and will then proliferate into a HTL phenotype that produces cytokines that “direct” the immune response
+Treg cells subdue the immune response
+Cytotoxic T cells recognise the peptide in MHC I on an APC, and then kills the cell by producing granzymes and perforins (punch holes in the target cell) or triggers apoptosis
+MHC II, CD4, helper T cells (HTL), act by triggering a response to fight against extracellular bacteria
+MHC I, CD8, cytotoxic T cells (CTL), act by triggering a response to fight against intracellular viruses
+MHC is polymorphic because it allows a population to bind to many different peptides, meaning individuals may have a better response to a pathogen, allowing the species to survive longer
+MHC polymorphism is problematic because it causes tissue transplantation to be difficult and is linked to many autoimmune diseases, such as T1 diabetes, multiple sclerosis, ankylosing spondylitis, rheumatoid arthritis etc
+
+Lecture 25
+LO - Allergy and hypersensitivity
+
+Hypersensitivity is a type of allergy and there are 4 types of hypersensitivity
+Type 1 is atopic, immediate, and mediated by IgE
+Type 2 is mediated by mediated by the complement system
+Type 3 is due to immune complex and not very common
+Type 4 is a slow response called delay type (DTH) and it occurs over days due to being adaptive immunity related
+Type 1
+Some type 1 examples include:
+Asthma (1 in 6 NZ)
+Hay fever or allergic rhinitis
+Dermatitis (eczema), hives (urticaria)
+Bee sting, dust mite allergy
+Animal ‘dander’ allergy
+Drug allergy (eg penicillin
+Large food proteins (gluten, peanut)
+Nickel (metal dermatitis)
+Anaphylaxis is a complication that results when a type 1 response is systemic rather than local
+IgE is 1000 times less concentrated that IgG
+Mast cells sit near the surface of the epithelium, and when activated by an antigen + IgE they release granules containing cytotoxins such as:
+Histamine
+Leukotrienes: potent pro inflammatory
+Prostaglandins: cause pain, inhibited by painkillers
+Free radicals: destroys cells due to charge
+Substance P: potent killer
+IgE binds with molecules and then trigger mast cell’s FcE receptor
+IgE binding is high affinity, meaning it binds for a long time - forever
+Prebound mast cells can occur if IgE there is enough IgE present, and can trigger rapid response, which is the hypersensitivity/allergy
+The current theory for the pathogenesis is that the allergen will bind with the naive B cell, which then produces IgE
+Type 2
+An example of a type 2 sensitivity is the rhesus baby
+Red blood cells can have rhesus factor antigens (RhD), which trigger an immune response in rhesus negative individuals
+If a baby is Rh+, but the mother is Rh-, the immune system of the mother undergoes affinity maturation for RhD antigens coming from the transfer of RBC back into the mother
+These Ig’s attack the baby's RBC when they are given back to the fetus (acute haemolytic anaemia)
+Father must be Rh+ in order for mother to be Rh-
+RhoGam is an anti Rh Ig, which destroys Rh before the mother can develop immunity to it
+Type 4
+Type 4 is DTH (delayed type hypersensitivity) and is a very slow response
+BCG is a vaccine for tuberculosis with mixed results (worked in NZ)
+Mantoux test determines whether someone has had TB in the past or present
+Involves injecting, into the skin, a PPD (purified protein derivative) and waiting for a type 4 response
+Measuring the size of the welt produced will determine whether you previously had it, largest being most recent
+Skin scratch test scrapes the skin and then drops allergens over the skin
+Desensitisation develops an IgG response instead of IgE which is obviously less painful/inflammatory
+Only lasts temporarily
+Monoclonal antibodies
+This involves the fusion (using polyethylene glycol (PEG)) of myeloma (cancerous) B cells (non producing) and regular spleen B cells to create a hybridoma
+Hybridomas can be grown unlike the short lived B cells, and produce 1 type of unchanging antibody, called monoclonal antibodies (Mab)
+These are important for any form of treatment/research/diagnosis etc that requires a particular antibody
+Essentially just a way to make man-made antibody
+Mabs are used in many treatments, including cancer immunotherapy (pembrolizumab), and rheumatoid arthritis treatment (infliximab)
+These treatments have tailor-made very specific effects
+They can be modified, even bi-specific
+Antibodies aren't toxic/won’t cause adverse reactions, and are humanised so they stay in the blood for months
+Powerful diagnostic tool
+Cons are that they are expensive and side effects are often dangerous as a result of affecting their target and changing body processes
+
+Lecture 26
+LO - Resting membrane potential
+
+Cells involved in the nervous system is neurons and glia, which support processes occurring in neural tissue
+Total aim: describe the structure/function of a neuron, understand how resting membrane potential is generated, understand how action potentials are generated and understand how neural communication works
+Describe the basic functions of a neuron
+Neurons have a variety of features, such as dendrites, the cell body, axon hillock (initial segment), axon, and axon terminal
+Neurons communicate with electrical and chemical signals, chemical signals are neurotransmitters
+The dendrites receive electrical input
+The cell body passively conduct electrical signals
+If the current is enough the axon hillock will initiate an action potential (AP)
+The axon will propagate AP to the the terminals, which then release chemical signals
+Basics of resting membrane potential (RMP)
+RMP is the natural voltage potential between the inside and outside of a cell
+The RMP of a cell is (usually) negative
+Only neurons and muscle cells can suddenly change their RMP (this is called action potential)
+RMP is measured using a ‘microelectrode’ which records the difference in charge
+Patch clamps can measure the flow of ions in/out of a cell
+RMP is a result of more negative charged ions inside the cell compared to outside (50-70mV)
+Outside a neuron there is usually 10x (150:15mM) of sodium outside and 20x (100:5) of potassium inside the cell
+This is because Na/K pumps have a ratio of 3 Na+ out to 2 K+ in
+Non gated ‘leak’ channels are open at rest, allowing diffusion
+Gated channels (voltage, ligand or mechanically gated) are closed at rest
+There are many more leak K channels than leak Na channels (40:1 permeability)
+Calculating equilibrium potentials for K+ and Na+ using the Nernst equation
+Equilibrium potential is only for 1 ion type, and is the potential at which ions stop flowing according to electrochemical gradient
+Essentially the point at which the electrical gradient and concentration gradient combined result in a net movement of 0
+Nernst equation = 2.3 X gas constant (R) X temp (T, 37C/310K) / (Valence (z, 1) X faradays) X log(conc in / conc out)
+Na is usually +60 and K is -80 (maybe?)
+Glia cells often only have K leak channels ^ RMP = EK
+For total RMP Vm is weighted by the permeability for each ion
+Using the Goldman equation to calculate RMP
+This uses E X log((Pk(40)XconcoutK+Pna(1)XconcoutNa)/PkconcinK+PnaconcinNa
+Sensory neuron has RMP of -65mV, if activation potential for pain is -55mV
+If a drug activates leaky K channels, high concentrations inside the cell will decrease, decreasing the charge inside the cell, increasing the negativity inside the cell, meaning the RMP is lower, ie difference is higher, therefore increased stimulus required
+
+Lecture 27
+LO - action potentials
+
+Neurons can communicate electrically with synaptic potentials (passive) and action potential
++ive ions moving out leaves negative charge inside = inside is negative voltage
+Membrane potential in neurons is not constant (-65mV)
+When it becomes more negative it is called hyper polarisation (moving away from equilibrium potential of Na (ENa)
+When it becomes more positive it is called depolarisation (moving towards ENa)
+Action potentials
+Action potential is a fluctuation in membrane potential caused by a “transient” opening of a voltage gated ion channel
+This change spreads along an axon like a wave
+This action potential is triggered after the membrane potential reaches the threshold potential (~-55mV) (depolarised, closer to ENa)
+The frequency of action potentials is carries information (neural language)
+This allows fast and long distance signal transmissions between neurons (FM vs AM)
+Three stages of the action potential and their associated changes in membrane permeability to Na+ and K+
+At first a stimulus evokes a slow depolarisation from the RMP, e.g -70 mV slowly moves up to -55mV
+Once the membrane potential reaches the threshold (-55mV), the voltage gated Na ion channels will open
+This will cause fast depolarisation as Na+ ions flow in, reducing the difference, depolarising to ~+30mV
+Repolarisation then occurs, passing RMP, which is then called after hyperpolarization (AHP), which will slowly depolarise to RMP
+During fast depolarisation and repolarisation above the threshold (roughly) any extra stimulus will not retrigger the action potential (called absolute refractory period), however afterwards one may retrigger it, but will require a larger stimulus due to the bigger amplitude required to reach ~-55mV (called relative refractory period)
+When threshold is reached, Na and K channels open, meaning PNa becomes larger (40:1 → 1:20) because PK of K channels is lower
+This means that the MP increases towards +60mV for the equilibrium MP
+The Na channels deactivate quickly, before the MP reaches +60mV
+This leaves the K channels open, resulting in a decrease of the equilibrium MP below the RMP (Pk:PNa is now 100:1)
+The MP goes below RMP temporarily before the K channels close and RMP equalises
+Molecular events leading to Na+ channel activation and inactivation
+The structure of an Na channel has a voltage sensor called the activation gate, and a ‘ball and chain’ called the inactivation gate
+When the voltage sensor detects the voltage threshold, it opens letting ions through
+Once the flow slows and becomes more +ive, the inactivation gate will be pushed in and block flow after ~1ms
+After the voltage threshold is passed back up, the activation gate closes, followed by the inactivation gate opening
+The amplitude of the stimulus can be graded, but the action potential cannot be graded, and is always 100mV
+If the stimulus is larger, the only difference in the AP is the frequency it is reached (early voltage threshold is met immediately)
+How action potentials can be generated by an electrical stimulus
+AP can be evoked externally or internally
+External activation is always experimental (using a battery/electrode) to create a current
+Internal activation occurs when the passive current from post-synaptic potentials build up in the axon hillock, resulting in a AP
+The current of a battery will originally flow on the outside of the cell, which does not trigger anything, but on the inside, some may flow stimulating AP
+Current is the flow of positive charges, i.e the reverse of the electron flow
+Current would flow from the + anode to the - cathode
+Local depolarisation will occur where at the anode and hyperpolarisation at the cathode
+If the local area of depolarisation reaches the threshold (reaching -55mV) it will trigger AP which then depolarises the next area after channels are opened
+When externally activated, this wave of triggers will move bidirectionally (wave started in the middle)
+In internal activation of an axon will be unidirectional as it starts at the first part of the axon hillock and cannot pass backwards through the cell body as the dendrites don’t have Na gated ion channels
+Also because previous gates are in absolute refractory period
+If Na channels are forcibly opened then the AP will stay maximised
+Paralysis can be flaccid or spastic, flaccid being deactivated and spastic being constantly activated
+Constant activation results is spastic paralysis
+
+
+Lecture 28
+LO - action potential 2
+
+The stimulus is usually non-voltage gated (mechanical or ligand)
+This increases the permeability to cations and results is less negativity within the cell (increasing MP towards 0)
+Stimulus, non-voltage gated channels opening, more Pcation (and K), less negative →
+Fast depolarisation, Na/K channels open, more PNa, more positive →
+Repolarisation, Na channels close, more PK, more negative →
+After hyperpolarization (AHP), K channels closing (second half), more PK, more more negative > less negative
+Axons can be myelinated/unmyelinated
+Unmyelinated are ~1um diameter, slow but continuous transmission of AP
+Myelinated  are 5-10um diameter, fast but saltatory (large steps) AP transmission
+AP transmission has 2 steps: passive spread and generation of action potentials
+These steps trigger each other ^ cycle
+‘Passive’ spread of potential along cell membrane
+If subthreshold depolarisation in one region of the membrane will try to move towards negative charges ^ differences on inside (matching opposite on outside) will travel along the axon
+The current dissipates to near 0 at <1mm, as the charges are being dissipated more by leak channels (no longer held up)
+Action potential transmission in unmyelinated and myelinated axons
+Action potential in unmyelinated ions will travel as noted earlier (triggering the adjacent Na channel threshold)
+This creates more charge than the leak channels
+The signals are slower (1m/s) because AP takes time to trigger/build up
+Myelin in CNS are oligodendrocytes and PNS is Schwann cells (both glia cells)
+Myelin insulates axons, preventing leak of charge (in consecutive covered areas (internodes))
+Action potential is only require in between internodes (nodes of ranvier)
+This means it is less current loss, less time for AP gen ^ faster, less energy to maintain gradient
+There's a mix of myelinated and unmyelinated because myelinated is too big
+PNS consists of motoneuron axons (output), sensory neurons cell body and axons (input), autonomic nervous system neurons (no important)
+How action potentials are generated in sensory neurons (the receptor potential)
+Muscle spindle is a cell with neurons attached to it, senses how stretched muscle is 
+As muscle spindle stretches, it creates a graded stimulus that reaches the trigger zone in the axon hillock
+The AP fires more if the stretch is higher = analog to digital
+This goes to CNS and reflex in spine
+Reflex un-stretches muscle to avoid injury
+Demyelination would lead to slower transmission of AP or no transmission at all
+A bacteria demyelinating nerves is the cause of leprosy
+
+
+Lecture 29
+LO - synaptic transmission and neural integration
+
+When neurons communicate the sender is presynaptic and receiver is postsynaptic
+Motoneurons are like the presynaptic neuron and their synapse is called a neuromuscular junction (also called an end plate)
+Neuromuscular junctions can be used as a model for synaptic transition
+When the AP reaches the presynaptic terminal (synaptic knob), voltage gated Ca ion channels open and Ca flows in to the terminal
+This will cause exocytosis or the release of neurotransmitters (acetylcholine or ACh) at the synaptic cleft
+These transmitters will open ligand gated ion channels (both Na+ and K+, non-selective)
+This will result in increase in charges and result in APs to move through the muscle cell called end plate potentials (EPP)
+EPP is always suprathreshold, meaning a an AP is always triggered (as long as muscle is healthy)
+Mechanisms of synaptic transmission in excitatory and inhibitory synapses
+Chemical synapses in the CNS can be excitatory or inhibitory
+Excitatory synapses cause depolarisation of the postsynaptic membrane, called the excitatory postsynaptic potential (EPSP)
+Inhibitory synapses cause hyperpolarization of the postsynaptic membrane called the inhibitory postsynaptic potential (IPSP)
+EPSP neurotransmitters include ACh and glutamic acid (glutamate)
+These transiently open Na+, K+ and sometimes Ca2+
+K does not hyperpolarise because more Na will flow in that K
+ISPS neurotransmitters include gamma-aminobutyric acid (GABA) or glycine
+These usually open K channels and sometimes Cl-
+Classes of neurotransmitters
+There are 2 classifications of neurotransmitters:
+Small molecule neurotransmitters are fast action (~milliseconds) and direct postsynaptic receptors
+They include amino acids (glutamate, GABA, glycine), ACh, and amines (serotonin (5-HT), noradrenaline, dopamine)
+Neuropeptides are much larger, they are slow (seconds-minutes), and a diffuse action
+They indirectly act (metabotropic, meaning they cause a cascade that may modulate ion channels) on postsynaptic receptors or modulate the effects of other neurotransmitters
+Many neuropeptides bind to GPCRs
+Factors determining synaptic action of a neurotransmitter/modulator include:
+The type of neurotransmitter/module
+The type of receptor/channel complex in the postsynaptic membrane
+The amount of receptor present in the postsynaptic membrane
+Synaptic plasticity is the increase in receptors ^ sensitivity in the postsynaptic neuron as a result of repetitive stimulus
+This is how memory works (long term potentiation)
+Long term depression is the loss of memory, where a lack of or specific type of use reduces the number of receptors/increases resistance, decreasing sensitivity
+An example of the factors contributing to synaptic action is glutamate
+Glutamate can bind to AMPA, NMDA (which can also bind to glycine), and kainate receptors
+Glutamate will produce responses that are fast in AMPA, slow in NMDA, and low amplitude but long in kainate
+Neurotransmitters can be deactivated through diffusion, enzymatic degradation (e.g acetylcholine esterase), and re-uptake, using transporters in the presynaptic membrane (glutamate, dopamine, and serotonin transporters)
+Neurons have thousands of synapses, some are inhibitory
+Each synapse only creates around 0.1mV, meaning it would both dissipate and not trigger action potential
+This can be solved using temporal or spatial summation
+Temporal summation is many quick stimulations of the ESPS, which add on top of each other before the last dissipates, eventually creating a signal larger enough to reach threshold
+Spatial summation is the triggering of many of the same synapses from (possibly multiple) neurons at the same time
+Spatial summation can also be used by IPSP to essentially cancel out other synapses
+Excitotoxicity
+Excitotoxicity occurs when there is too much excitatory neurotransmitter (e.g glutamate)
+This results in Calcium accumulation, resulting in an increase in reductive oxidative species, which leads to apoptosis as an enzyme kills the cell
+The calcium accumulation can occur due to receptors remaining open due to excess Ca in the cell (called huntington's disease)
+A proposed mechanism of schizophrenia is that neurons are lacking in GABA receptors (produce IPSP), meaning that signals aren’t inhibited, resulting in hypersensitivity in firing auditory neurons (hallucinating noises)
