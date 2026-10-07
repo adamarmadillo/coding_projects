@@ -1,0 +1,453 @@
+Concepts:
+
+.h and .cpp
+    - functions can be defined at any point in the program, or even different files,
+    as long as they are declared first as being a function
+    - often similar groups of declarations (if there are too many to define on main.cpp)
+    will be found on a separate .h file, and their definitions on a separate .cpp file
+    - this allows the main to stay clean, and #include example.h will then paste all of the
+    declarations, allowing you to use them in main
+    - the linker (i think) will then go and compile the definitions from other .cpp files,
+    simplifying everything
+    - [#pragma once] prevents struct or class redefinition errors
+main()
+    - int main() {return 0;} is required for .cpp projects (not each file)
+    - this basically declares the function that will be run upon running the .exe
+    - if not included compiling will fail
+    - the return 0 is just part of C, where main will just return 0 if everything went fine,
+    or something other than 0 if you got cooked
+using namespace <namespace>;
+    - usually with std, allows you to just type the command in
+    - eg: cout << "hello";
+    - not recommended because it hides the namespace AND can cause clashes if you try to
+    define a function with a clashing name
+    - does make everything look cleaner
+types
+    - a type is an assigned method to read data and assign memory
+    - c++ vars are statically typed, meaning the type is a part of the variable, and assigning
+    values that do not fit the type are errors (unless the program adjusts for it, eg int x = 3.9
+    truncates to 3)
+    - operations performed on a variable will exhibit different behaviour depending on the type, eg:
+    int a = 5; double x = a / 2;  x is equal to 2, because a is performing integer division
+literals
+    - a literal is the innate type of data when it is written in the code
+    - a plain integer is an int literal: 2, -10
+    - a single character in single quotes is a char literal: 'a', 'T'
+    - character(s) in double quotes is a string literal: "hello", "B"
+    - a number with a decimal point is a double literal: 3.1, 10.04
+    - a number with an f after it is a float literal: 3.1f, 7.123f
+streams
+    - cin and cout are effectively variables which just read into or from an output
+    - their type is istream and ostream respectively
+    - streams run variables through them via << or >>, depending if it is an input or output stream
+    - ostringstream is a type which stores a stream as a string of variables
+    - this works like an fstring in python
+    - returns a string string via <var>.str() BUT this cannot be used to make the variable a string
+declaring and initialising
+    - declaring x gives it a type: int x
+    - initialising x gives it a value: int x = 4, int x ; x = 4, int x{4}
+    - int <var>{<value>} returns errors if the value has to be narrowed (eg int x = 3.2)
+defining a function
+    - int func(char a, char b) {
+        return a + b
+    }
+    - void is a return type for functions with no output
+    - parameters are the input variables [int func(int parameter)] {}
+    - arguments are the values passed in [int x = func(argument);]
+    - non-void functions have to return on every path
+    - arguments are copied into parameters, meaning you can't affect a parameter's global value directly (references are needed)
+    - restated, a global variable will not be affected if it is just a parameter (ignoring references)
+scope
+    - a variable declared within a function is "local" and can only be accessed inside that function
+    - a variable declared outside of a function is "global" and can be accessed inside any function
+    - declaring a global variable within a function will LOCALLY over write the variable
+    - initialising a global variable within a function will initialise it globally
+declaring a function
+    - functions only have to be declared before use, not always defined
+    - declaring a function only includes:
+    - int func(char a, char b);
+    - this is called a prototype and has to end with a ;
+    - names of parameters are optional
+default values
+    - default values must be the rightmost parameters
+    - defaults are only initialised in the first declaration
+    - if using a header they should be in the prototype
+    - if declaring and defining a function in the same line they should just be there
+overloading
+    - 2 functions of the same name can be defined as long as their parameter types are different
+    - this means I can define: int add(int a, int b) {return a + b;}
+    - then: int add(char a, char b) {return static_cast<int>(a + b);}
+recursion
+    - a function can be included inside a function as long as it contains a base case:
+    - int fib(int n) {
+        if (n == 0 || n == 1) { return 1 }
+        return fib(n - 1) + fib(n - 2)
+    }
+memory addresses
+    - these are the location of a variable's value in ram
+    - they can be used to parse definitive values into functions etc
+    - this is covered under memory shenanigans
+    - pointers allow you to share data without copying and build certain data structures
+    - also have something to do with heap memory
+structs and classes
+    - covered in types
+    - create a new type that can hold members
+    - members can be: 
+    data (data members/member variables)
+    functions (methods/member functions)
+    - struct and class are the same but their members are public and private (respectively) by default
+    - private members can only be called within the class
+    - structs are generally used for types which should be accessed directly
+    - classes are generally used for objects with behaviours and internal data
+heap and stack
+    - memory is stored in 2 ways, the heap and the stack
+    - the stack holds local variables, and is allocated when a function/block is entered
+    - stack memory is freed automatically when a function or black is exited
+    - it is fast, with a fixed and small size, but no management is needed
+    - heap memory has to be accessed manually with a pointer
+    - it is slower, but with a large and flexible size
+    - the heap can be used to allow data to outlive a function, or if the size isn't known at compile time
+allocating memory in the heap 
+    - memory in the heap can be created with new [int* p = new int(50);]
+    - memory in the heap can be deleted with delete [delete p;]
+    - a pointer to an array in the heap must be deleted with: [delete[] p;]
+    - memory leaks can occur when:
+    an allocated variable is not deleted
+    a pointer is deleted or OVERWRITTEN!!
+    - dangling pointers occur when:
+    a pointer is called after its data has been deleted (so assign a nullptr after deleting)
+    a pointer is returned for data initialised on the stack, which is then deleted
+    - every new should have a matching delete
+memory addresses 2
+    - an allocated pointer will give the direct memory address of a piece of data
+    - the compiler replaces variables with the location of a piece of data
+    - this is a position relative to a stack pointer
+
+
+
+Syntax:
+
+instructions are ended with a ; except:
+    - function declarations -> int func() {blah blah}
+    - #include
+    - control blocks -> for, if
+objects are pulled from libraries via lib::object
+    - std:: holds all of the obbjects in system directories
+comments:
+    - // is a basic comment
+    - /* block comments
+    - span lines */
+booleans are lowercase
+indentations, spaces, etc never matters, {} and ; do all of the work
+{}
+    - holds functions
+    - variables declared in the function will be deleted after running (called scope)
+    - global variables initialised outside of the function can be access and modified within it
+char vs string
+    - "" double quotes will create a string
+    - '' single quotes can only have
+    - this is just the literal of string and char respectively
+logical operators:
+    - && = AND
+    - || = OR
+    - ! = NOT
+    - anything that is evaluated as 0 is false, anything other than 0 is true
+choice operator:
+    - ? give an inline if/else
+    - eg: int x = (a >= b) ? 1 : 2
+    - reads as: if a >= b, x = 1, else x = 2
+PEMDAS applies in C++
+if else:
+    - if and else statements should be structuredd as:
+    - if { } else if { } else { }
+    - if braces are not used only the next statement will be considered within the statement
+break and continue
+    - break exits the loop
+    - continue skips to the next loop
+
+
+
+OOP chicanery:
+
+clarification
+    - a struct and class are both the same thing, but:
+    members of structs are public by default
+    members of classes are private by default
+    - both fall under the term "class types", and i will go on to explain everything under the context of
+    classes, purely for clarity sake
+    - the only discrepancies are privacy related
+classes, structs and objects
+    - a class is a type that holds data (member variables) and functions (methods)
+    - an object is an instance of a class
+    - methods usually operate on a classes data
+setting up a class
+    - class Class {
+        type member;
+        type member;
+
+        void method() {
+            do something
+        }
+    }
+    - Class object;
+    - object.method();
+    - object.member = x;
+scope of classes
+    - *see clarification
+    - private can only be accessed within the object
+    - public can be accessed generally
+constructors
+    - this all regards the basic one form constructor
+    - constructors define the initialisation of members when an object is created
+    - the constructor has to be public to be run (easy to forget with classes vs structs) however
+    initialised members can be private
+    - within the class, a constructor copies the name of the class eg: Dog(std::string name, int age)
+    - constructors force a member to be initialised (or cause an error)
+    - constructors are required to initialise private values
+initialising an object
+    - an object can be initialised through essentially 3 methods:
+    "parenthesis initialisation" (which i will call bracket initialisation),
+    brace initialisation, and copy-list initialisation'
+    - copy-list initialisation runs the exact same as brace initialisation but pulls from a list so has different syntax
+    - bracket initialisation requires a constructor, and can address private members:
+    Dog d1("joe", 5)
+    - brace (and copy-list) initialisation does not require a constructor for public members, but does for private
+    Dog d1 {"joe", 5} or
+    Dog d1 = {"joe, 5}
+classes and types
+    - notice classes have some shockingly similar behaviour to regular types
+    - this is because regular types are also just a class with extra steps
+advanced method definitions
+    - operator can be used to define how a class behaves when an operator (*+-/) is applied to it:
+    - Class operator<op>(parameter) {};
+    - in most cases this uses a const reference for the parameter in order to not change it, and
+    a const after the definition to state that the data members of the class do not change (seeing as
+    a + b does not change a)
+    - const essentially allows you to use a copy of the class in its own methods
+    - const is required for calling a type that is const, because otherwise the compiler thinks the object could be modified
+    while beiing under const
+    - pulling this together:
+    Number operator+(const Number& o) const {}
+
+
+Headers:
+
+running programs with multiple files
+    - obviously uses headers etc
+    - current code runner script runs all files that don't include int main()
+    - this means all definition and header files in the same folder will compile
+    - if any have errors, different versions etc, make a new folder
+<iostreams>
+    std::cin
+    std::cout
+    std::endl
+<typeinfo>
+    typeid(x).name()
+<string>
+    [type] std::string
+<sstream>
+    [type] std::ostringstream
+#pragma once
+    prevents struct or class redefinition errors
+
+
+
+Types:
+int
+    - 4 bytes
+    - signed +2.1 to -2.1 billion
+    - literal is just any integer
+char
+    - literal is denoted by single quotes ('')
+    - holds one character as a small integer ASCII code
+    - stores capitalisation
+    - can assign directly with the ascii number
+bool
+    - 1 byte (stupid ik)
+    - 0 or 1 = true or false
+    - true/false are the only bool literals
+    - std::boolalpha
+double
+    - 8 bytes
+    - stores a decimal number to ~15 digits precision
+float
+    - 4 bytes
+    - stores a decimal number to ~7 digits precision
+istream, ostream
+    - requires <iostream>
+    - basically a read from and write to the output stream respectively
+ostringstream
+    - requires <sstream>
+    - stores stream outputs into a string buffer
+const
+    - place it before a type
+    - makes a variable unchangeable
+    - standard practice for readability and reducing bugs (will just throw an error instead of 
+    causing issues)
+    - required for some more complex functions
+long, short
+    - these are an integer with 4 and 2 bytes respectively
+    - synonymous with long int and short int
+    - long long creates an integer with 8 bytes
+    - short short does not exist
+enum
+    - basically a dict of names and their corresponding numbers
+    - eg: enum Day {MON, TUE};
+    - Day x = MON; // x = 0
+    - will throw errors if 2 enums use the same names, in which case you use enum class
+    - eg: enum class Colour { Red, Blue };
+    - Colour x = Colour::Blue; // x = 1 
+    - compliments with the switch operator for readability as it can only take int, char, and enum
+native C++ arrays:
+    - fixed size
+    - objectively superseeded by std::array
+    - declared like: type x[size] = {a, b, c};
+    - creates space in memory for <size> integers
+    - x[index] will retrieve the [index + 1]th element on the list (0 indexed)
+    - if the index is out of range it will return garbage
+    - <type> x[size] will declare the array but not initialise it 
+    - <type> x[size] = {}; will fill the array with 0s
+    - <type> x[size] = {1}; will fill the rest of the array with 0s
+    - <type> x[] = {1, 2, 3}; will set the size automatically
+    - sizeof only works where the array was declared
+    - can be iterated in a for loop via: for (int i : x) {} where i is the elements and x is the array
+    - int x[2][3] will make a length 2 array of length 3 arrays
+    - x[a][b] will refer to the outer array first, then inner
+    - char x[] = "blah"; will create an old string type
+    - cannot be used in functions (just gives the reference)
+std::array
+    - fixed size
+    - ideal array type compared to native
+    - declared as: std::array<type, size> x = {a, b, c}
+    - x[index] still works samne as native
+    - x.at(index) will throw an error if index is out of range (yay!)
+    - x.size() returns the length (doesnt work for native)
+    - x.front() and x.back() will return first and last elements respectively
+    - x.fill(value) will set every element to value
+    - can be copied and compared with =/==
+    - </> comparisons check element by element until a difference is found (same w strings)
+    - can be used in functions, but size has to be defined unless using templates
+std::string
+    - requires <string> (or <iostream>)
+    - stores a sequence of chars: std::string s = "Hello";
+    - s.length() or s.size() returns the length
+    - returns but doesn't count \0 for most things
+    - s[i], s.at[i], s.front(), and s.back() all work like std::arrays
+    - + and += adds strings together
+    - s.find("yo") will return index of the first char where the string appears
+    - if not present, returns 2 ^ 64 - 1 (184...615)
+    - s.insert(i, "yo") inserts "yo" at index i
+    - s.substr(b, e) return strings from index b to e, if fin is omitted it will just
+    return b to the end of the string
+    - s.erase(b, e) removes chars b-e
+    - s.replace(start, fin, "yo") erases b-e and then inserts "yo"
+    - s.pop_back()
+
+Memory shenanigans:
+
+addresses
+    - &x gives the address of x
+pointers
+    - type* p = &x; stores x's address in p
+    - the type must refer to x's type
+    - type* p = nullptr can be used to declare p before x
+    - p can be rebound to another variable
+dereferencing 
+    - *p will behave as x
+    - *p will return x
+    - *p = 3; will set x = 3
+    - dereferencing a nullptr will crash the exe
+array pointers
+    - suppose: int arr[3] = {1, 2, 3};
+    - int* p = arr; is the same as int* p = &arr[0]
+    - *(p + n) will return arr[n]
+    - p[index] returns arr[index] directly
+references
+    - type& r = x creates a reference to x
+    - this is the same as a pointer with some small differences:
+    - cannot be rebound to a different variable
+    - must be bound to a variable
+    - doesn't require any extra syntax: r = 10;
+in functions
+    - pointers and references allow any argument passed into x will be directly used and modified
+    - void pointFunc(int* x) {*x = 5}
+    - argument x has to be a pointer, e.g. pointFunc(&a); // a = 5
+    - useful when the argument can be absent
+    - void refFunc(int& x) {x = 5}
+    - argument x can just be its value, much cleaner
+    - const type* x or const type& x will not allow a value passed into x to be modified
+    - this is useful because a large argument does not have to be copied into x, and can just be accessed directly,
+    and const just protects it from being modified
+    - this is useless for smaller types
+
+
+
+
+Functions/commands:
+
+<type> x
+    - declares a variable x to be a type
+    - can assign multiple vars to a type in one line, eg: int a = 1, b = 2;
+<type> x {}
+    - declares x via the script in the braces
+<type> func() {}
+    - declares a function to return a type of value
+    - if a path in the function leads to no output, the program will just return garbage
+auto x
+    - x is assigned a type based on the value you assign to it
+    - type given is often not very useful for anything other than holding the value
+
+#include x
+    - inserts the contents of another file
+    - <> is for headers that point to system directories (C++ library)
+    - "" is for headers that point to files in the project directories, if it doesn't exist, it looks in the system directories 
+    <iostreams> includes:
+        cin -> pull a line from the terminal
+        cout -> insert a value or string into the terminal
+        endl -> insert a \n
+    - "example.h" includes functions that are defined somewhere else in the project (linker will work it out)
+
+for(i = 0; i <= 10; i++)
+    - expects 2 semicolons/3 statements in the brackets
+    - first defines a counter variable
+    - second gives the condition for the loop to run
+    - third modifies the variable every cycle
+    - the third can be left empty if the loop includes modificaitons to i
+    - an equivalent can be constructed with a while loop, but for doesn't save the variable
+do {func} while (x == y);
+    - performs the contents of the loop once unconditionally, then repeats the loop until the condition is false
+    - only case where the ; goes after the ()s
+switch (var) {
+    case 1: 
+        exec; 
+        break;
+    case 2: 
+        exec; 
+        break;
+    default:
+        exec;
+    }
+    - can only use int, char and enums (good for readability)
+
+std::cout << "string"
+    - outputs string into terminal
+    - cout << "Value: " << "1" |-->  Value: 1
+std::cin >> x
+    - inserts input into x
+std::endl
+    - makes a new line AND flushes the output buffer (slow/usually not relevant)
+    - "\n" is basically always better
+std::boolalpha
+    - turns 1 or 0 into "true" or "false"
+
+<seq>.length() returns the length of a sequence
+<seq>[<index>] returns the variable at the index of the sequence
+sizeof(x)
+    - returns the number of bytes declared for a variable
+typeid(x).type()
+    - returns the type of a variable
+static_cast<type>(x)
+    - returns the variable converted to the specified type
+    - the <> are meant literally
+    - works for int <-> bool, double, char, float
+    - useful with char because char is effectively a 1 byte int
