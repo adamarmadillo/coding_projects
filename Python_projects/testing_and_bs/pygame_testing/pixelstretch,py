@@ -1,0 +1,124 @@
+import pygame as pg
+import math as mat
+import random as rand
+from itertools import product
+Vec2 = pg.Vector2
+
+pg.init()
+f_screen = pg.display.set_mode((800, 800))
+screen = pg.surface.Surface((100, 100))
+pg.display.set_caption("Game")
+clock = pg.time.Clock()
+running = True
+dt = 0
+
+font = pg.font.SysFont("Consolas", 15)
+
+class Px:
+    def __init__(self, on, pos, colour):
+        self.on = on
+        self.pos = Vec2(pos)
+        self.colour = colour
+        self.mode = "none"
+        self.update_mode = "none"
+        self.draw_count = 0
+
+    def draw(self, screen):
+        screen_height = screen.get_height() - 1
+        screen_pos = (
+            int(self.pos.x),
+            int(screen_height - self.pos.y)
+        )
+        screen.set_at(screen_pos, self.colour)
+
+    def sim(self, px_list):
+        if self.mode == "plant":
+            neighbor_offset = [(1, 0), (-1, 0), (0, 1), (0, -1)]
+            neighbor_px = [self.pos + neighbor_offset[i] for i in range(4)]
+            neighbor_px = [
+    i for i in neighbor_px
+    if (0 < i.x < 99 and 0 < i.y < 99)
+    and px_list[int(i.x)][int(i.y)].mode not in ("plant_set", "plant_old", "plant")
+]
+            if len(neighbor_px) != 0:
+                growth_px = rand.choice(neighbor_px)
+                px_list[int(growth_px.x)][int(growth_px.y)].update_mode = "plant"
+                if self.draw_count >= 20:
+                    self.draw_count = 0
+                px_list[int(growth_px.x)][int(growth_px.y)].draw_count = self.draw_count + 1
+                px_list[int(growth_px.x)][int(growth_px.y)].colour = "purple"
+            self.update_mode = "plant_old"
+            self.colour = "red"
+        if self.mode == "plant_old":
+            self.update_mode = "plant_set"
+            self.colour = (50, max(255 - 10 * self.draw_count, 50), 50)
+
+    def update(self):
+        if self.update_mode != "none":
+            self.mode = self.update_mode
+            self.update_mode = "none"
+
+px_list = []
+def reset_px():
+    for i in range(100):
+        temp_list = []
+        for j in range(100):
+            temp_list.append(Px(
+                False, (i, j), "black"
+            ))
+        px_list.append(temp_list)
+
+reset_px()
+
+px_list[50][50].update_mode = "plant"
+px_list[50][50].colour = "green"
+
+tick_timer = 0
+tick = True
+
+while running:
+    for event in pg.event.get():
+        if event.type == pg.QUIT:
+            running = False
+
+    keys = pg.key.get_pressed()
+    if keys[pg.K_SPACE]:
+        px_list = []
+        reset_px()
+        for i in px_list:
+            for j in i:
+                if j.pos.x % 50 == 25 and j.pos.y % 50 == 25:
+                    j.update_mode = "plant"
+                    j.colour = "green"
+
+    tick_timer += dt
+    if tick_timer >= 0.01:
+        tick_timer -= 0.01
+        tick = True
+    else:
+        tick = False
+
+    px_iterable = [px_list[i][j] for j in range(100) for i in range(100)]
+
+    if tick:
+        for px in px_iterable:
+            px.sim(px_list)
+        for px in px_iterable:
+            px.update()
+
+    screen.fill("black")
+
+    for px in px_iterable:
+        px.draw(screen)
+
+    scaled_screen = pg.transform.scale(screen, (800, 800))
+    f_screen.blit(scaled_screen, (0, 0))
+
+    text = font.render(f"{dt}", True, "white")
+    f_screen.blit(text, (10, 10))
+
+    pg.display.flip()
+
+    dt = clock.tick(144) / 1000
+
+pg.quit()
