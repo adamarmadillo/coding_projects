@@ -1,0 +1,6 @@
+Preferences ->
+Preferences: Open User Settings (JSON) ->
+Scroll to "code-runner.executorMap": ->
+"cpp" : -> paste:
+
+"cd $dir ; if ($?) { g++ $fileName (Get-ChildItem *.cpp | Where-Object { $_.Name -ne '$fileName' -and -not (Select-String -Path $_.FullName -Pattern '\\bmain\\s*\\(' -Quiet) } | ForEach-Object Name) -o $fileNameWithoutExt } ; if ($?) { .\\$fileNameWithoutExt }"
