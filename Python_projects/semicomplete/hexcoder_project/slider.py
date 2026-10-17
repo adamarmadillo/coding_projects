@@ -61,3 +61,8 @@ class Slider:
 
     def Value(self):
         return int(self.knobPos.x - self.sliderPos.x)
+    
+    def operate(self, mouse):
+        if self.mouseBound:
+            mousePos = mouse.get_pos()
+            self.slideToMouse(mousePos)

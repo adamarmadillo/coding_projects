@@ -1,6 +1,6 @@
 import pygame as pg
 import random as rand
-from coding_projects.Python_projects.semicomplete.hexcoder_project.slider import Slider, InRect
+from slider import Slider, InRect
 
 pg.init()
 screen = pg.display.set_mode((800, 800))
@@ -44,9 +44,7 @@ while running:
                     slider.MouseClick(event, mousePos)
 
     for slider in sliders:    
-        if slider.mouseBound:
-            mousePos = pg.mouse.get_pos()
-            slider.slideToMouse(mousePos)
+        slider.operate(pg.mouse)
 
     screen.fill([sliders[i].Value() for i in range(0,3)])
 
