@@ -173,7 +173,7 @@ class Cell:
             if self.state == 0:
                 self.time_since_1 = 1
 
-square_size = 4
+square_size = 10
 screen_size = screen.get_size()
 cell_num = (screen.get_height() * screen.get_width()) / square_size ** 2
 
@@ -209,13 +209,13 @@ def change_rule(num_list, num):
         num_list.sort()
 
 
-frames_per_tick = 1
-d_frame = 0
-paused = True
+paused = False
+
+tpf = 0.5
+d_tick = 0
 
 tps = 0
-time_since_tps_update = 0
-ticks_since_tps_update = 0
+
 heatmap = 0
 show_info = True
 rule_select = "B"
@@ -238,11 +238,6 @@ for i in range(int(cell_num)):
     cells.append(Cell(i, screen, square_size, looping, 0, birth_num, live_num))
 for cell in cells:
     cell.init_env(cells)
-
-for cell in cells:
-    if cell.pos in ((79,79), (79,80), (80,80), (80,79)):
-        cell.state = 1
-        cell.update_neighbors
 
 def run_tick(cells):
     pending_cells = []
@@ -299,10 +294,13 @@ while running:
                 mouse_pos = pg.mouse.get_pos()
                 cell_id = mouse_pos_to_id(mouse_pos, screen, square_size)
                 cells[cell_id].run_click()
-            elif event.button == 4 and frames_per_tick < 144:
-                frames_per_tick += 1
-            elif event.button == 5 and frames_per_tick > 0:
-                frames_per_tick -= 1
+            elif event.button == 4:
+                if tpf < 1:
+                    tpf *= 1.1
+                    if tpf > 1:
+                        tpf = 1
+            elif event.button == 5:
+                tpf /= 1.1
 
 
     # init constant key presses
@@ -316,20 +314,22 @@ while running:
         cell_id = mouse_pos_to_id(pg.mouse.get_pos(), screen, square_size)
         cells[cell_id].run_hold(0)
 
-    screen.fill("#105010") # flush display
+    screen.fill("#141006")
 
-    if d_frame >= frames_per_tick:
-        run_tick(cells)
-        ticks_since_tps_update += 1
-        d_frame = 0
-    elif paused == False:
-        d_frame += 1
-
-    time_since_tps_update += dt
-    if time_since_tps_update >= 1:
-        time_since_tps_update -= 1
-        tps = ticks_since_tps_update
-        ticks_since_tps_update = 0
+    if paused:
+        continue
+    elif tpf < 1:
+        if d_tick >= 1:
+            run_tick(cells)
+            d_tick -= 1
+        else:
+            d_tick += tpf
+    elif tpf >= 1:
+        d_tick += tpf
+        ticks_to_run = mat.floor(d_tick)
+        for i in range(ticks_to_run):
+            run_tick(cells)
+        d_tick -= tpf
 
     for cell in cells:
         if debug_updates:
@@ -341,8 +341,8 @@ while running:
     lines = [
         f"{bs}",
         f"{query(paused, 'paused', 'unpaused')}",
-        f"game speed: {round(1 / max(1, frames_per_tick), 2)} {query(frames_per_tick == 0, '(CPU limited)', '')}",
-        f"tps: {tps}",
+        f"game speed: {round(tpf, 3)} {query(tpf == 1, '(CPU limited)', '')}",
+        #f"tps: {tps}",
         f"heatmap: {heatmap}",
         f"looping: {query(looping)}",
         f"change rule: {rule_select}",
@@ -362,4 +362,4 @@ for cell in cells:
     if cell.needs_update:
         db_update += 1
 
-print(db_update)
+print(tpf)
