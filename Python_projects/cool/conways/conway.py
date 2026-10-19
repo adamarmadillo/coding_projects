@@ -208,7 +208,6 @@ def change_rule(num_list, num):
         num_list.append(num)
         num_list.sort()
 
-
 paused = False
 
 tpf = 0.5
