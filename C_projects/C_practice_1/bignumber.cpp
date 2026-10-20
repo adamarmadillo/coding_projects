@@ -49,7 +49,7 @@ struct BigNum {
         return (o < *this);
     }
     bool operator!=(const BigNum& o) const {
-    return !(*this == o);
+        return !(*this == o);
     }
     bool operator<=(const BigNum& o) const {
         return (*this < o) || (*this == o);

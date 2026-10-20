@@ -5,7 +5,7 @@ Vec2 = pg.Vector2
 from slider import Slider
 
 pg.init()
-screen = pg.display.set_mode((1600, 800))
+screen = pg.display.set_mode((1200, 600))
 pg.display.set_caption("Game")
 clock = pg.time.Clock()
 running = True
@@ -85,7 +85,6 @@ class Cell:
             pg.draw.rect(screen, colours[col], self.rect)
         else:
             screen.set_at((int(self.pos.x), int(self.pos.y)), colours[col])
-
 
 class Cell_Grid:
     def __init__(self, grid_size):
@@ -227,9 +226,9 @@ class Ant:
                 self.internal_timer += 1
             else:
                 x1 = int(self.pos.x)
-                x2 = rand.randint(0, self.grid_size.x - 1)
+                x2 = rand.randint(0, int(self.grid_size.x - 1))
                 y1 = int(self.pos.y)
-                y2 = rand.randint(0, self.grid_size.y - 1)
+                y2 = rand.randint(0, int(self.grid_size.y - 1))
                 if abs(x1 - x2) < self.grid_size.x / 10 and abs(y1 - y2) < self.grid_size.x / 10:
                     for i in range(int(min(x1, x2)), int(max(x1, x2))):
                         for j in range(int(min(y1, y2)), int(max(y1, y2))):
@@ -301,7 +300,7 @@ class Ants:
 
     def gen_ant(self, ruleset, death_ant=False, death_ant_type="random"):
         if self.rand_pos:
-            pos = Vec2(rand.randint(0, grid.grid_size.x - 1), rand.randint(0, grid.grid_size.y - 1))
+            pos = Vec2(rand.randint(0, int(grid.grid_size.x - 1)), rand.randint(0, int(grid.grid_size.y - 1)))
         else:
             pos = Vec2()
         self.ants.append(Ant(self.grid, ruleset, pos, death_ant, death_ant_type))
@@ -338,7 +337,7 @@ class Ruleset:
         self.ruleset = rulesets[self.rule_n][0]
         self.ruleset_name = rulesets[self.rule_n][1]
 
-grid_size = Vec2(800, 400)
+grid_size = Vec2(600, 300)
 
 ruleset = Ruleset(5)
 grid = Cell_Grid(grid_size)
