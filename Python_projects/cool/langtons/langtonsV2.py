@@ -337,7 +337,7 @@ class Ruleset:
         self.ruleset = rulesets[self.rule_n][0]
         self.ruleset_name = rulesets[self.rule_n][1]
 
-grid_size = Vec2(800, 400)
+grid_size = Vec2(600, 300)
 
 ruleset = Ruleset(5)
 grid = Cell_Grid(grid_size)
