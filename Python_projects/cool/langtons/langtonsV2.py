@@ -5,7 +5,7 @@ Vec2 = pg.Vector2
 from slider import Slider
 
 pg.init()
-screen = pg.display.set_mode((1600, 800))
+screen = pg.display.set_mode((800, 800))
 pg.display.set_caption("Game")
 clock = pg.time.Clock()
 running = True
@@ -338,7 +338,7 @@ class Ruleset:
         self.ruleset = rulesets[self.rule_n][0]
         self.ruleset_name = rulesets[self.rule_n][1]
 
-grid_size = Vec2(800, 400)
+grid_size = Vec2(400, 400)
 
 ruleset = Ruleset(5)
 grid = Cell_Grid(grid_size)
