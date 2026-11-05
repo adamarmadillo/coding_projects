@@ -122,6 +122,16 @@ memory addresses 2
     - an allocated pointer will give the direct memory address of a piece of data
     - the compiler replaces variables with the location of a piece of data
     - this is a position relative to a stack pointer
+lambda
+    - these are callable inline functions with their own syntax and funkiness:
+    - [capture](parameters) { body }
+    - the capture determines what parts of the environment are available to the function, and how they are passed
+    - [&] captures by reference, [=] by copy, and [] means no information is available from beyond the scope of the function
+    - [v] captures v only by copy, [&v] is the same but by reference
+    - [&, v] captures all but v by reference, you get the point
+    - (parameters) are the same as regular function definitions
+    - these are still able to modify external variables if the capture is correct, so the number of variables isnt = to number of params
+    - this can be used in objects etc to call a func multiple times etc
 
 
 
@@ -342,6 +352,8 @@ std::string
     - s.erase(b, e) removes chars b-e
     - s.replace(start, fin, "yo") erases b-e and then inserts "yo"
     - s.pop_back()
+CALLABLES
+    - so cool they get they own section
 
 Memory shenanigans:
 
