@@ -13,7 +13,12 @@ $extra = @(
     ForEach-Object FullName |
     Sort-Object -Unique
 
-g++ -std=c++20 $file $extra -I"$libRoot" -I"$dir" -o $out
+$sfml = @()
+if (Select-String -Path $file -Pattern '#include\s*<SFML/' -Quiet) {
+    $sfml = @('-lsfml-graphics', '-lsfml-window', '-lsfml-system')
+}
+
+g++ -std=c++20 $file $extra -I"$libRoot" -I"$dir" -o $out @sfml
 if ($LASTEXITCODE -eq 0) {
     Set-Location $dir
     & $out

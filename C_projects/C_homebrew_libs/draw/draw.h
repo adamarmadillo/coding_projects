@@ -6,11 +6,14 @@
 #include <cstdint>
 #include <string>
 #include <stdexcept>
+#include <concepts>
 #include <fstream> // DO THIS
 
 struct Colour {
     std::uint8_t r, g, b;
     
+    template<typename T> requires (!std::is_same_v<uint8_t, T>)
+    constexpr Colour(T r, T g, T b) : r(static_cast<uint8_t>(r)), g(static_cast<uint8_t>(g)), b(static_cast<uint8_t>(b)) {};
     constexpr Colour(uint8_t r, uint8_t g, uint8_t b) : r(r), g(g), b(b) {};
     constexpr Colour(uint32_t rgb) : r(rgb >> 16 & 0xFF), g(rgb >> 8 & 0xFF), b(rgb & 0xFF) {};
     constexpr explicit Colour() : r(), g(), b() {};

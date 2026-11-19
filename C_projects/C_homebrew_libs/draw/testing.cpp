@@ -5,32 +5,22 @@
 #include "../smooth/smooth.h"
 #include <vector>
 #include "../random/random.h"
+#include "../colour_gradients.h"
+
+double sm(double x) {
+    double o = x;
+    o = inOutPlateau(o, 0.2, 4);
+    //o = easeIn(o, 1.1);
+    return o;
+}
 
 int main() {
-    Surface screen(Vec2i(512, 256));
+    Surface screen(Vec2i(256, 256));
+    Random random(1);
 
-    Grid<Colour> quads(Vec2i(32, 16));  // 512 cells
-    quads.setByIndex([&](size_t i) {
-        int r = (i % 8) * 32 + 16;
-        int g = ((i / 8) % 8) * 32 + 16;
-        int b = (i / 64) * 32 + 16;
-        return Colour(r, g, b);
+    screen.setByPos([&] (Vec2i p) {
+        return Colour(p.x, p.y, (p.x + p.y) / 2);
     });
-
-    Random rand(1);
-    rand.shuffle(quads.data);
-
-    screen.setByPos([&](Vec2i pos) {
-        return quads.at(pos / 16);
-    });
-
-    //screen.setByPos([&](Vec2i pos) {
-    //    Colour c;
-    //    c.r = quantise(pos.x * 2, 32);
-    //    c.g = quantise(pos.y * 2, 32);
-    //    c.b = quantise(pos.x / 4, 32) / 2 + quantise(pos.y / 4, 32) * 2;
-    //    return c;
-    //});
 
     // Write PPM (binary, P6)
     std::ofstream out("output.ppm", std::ios::binary);

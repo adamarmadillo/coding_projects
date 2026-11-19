@@ -51,3 +51,22 @@ double easeOutIn(double i, double k) {
         return sign(i) * 0.5 + 0.5 * easeIn(2 * (i - sign(i) * 0.5), k);
     }
 }
+double inOutPlateau(double t, double a, double midSlope)
+{
+    t = std::clamp(t, 0.0, 1.0);
+    a = std::clamp(a, 0.001, 0.499);
+    const double s = std::clamp(midSlope, 0.0, 1.0 / (1.0 - a));
+
+    // Rise covered by each ease section; the middle covers s*(1-2a).
+    const double R = (1.0 - s * (1.0 - 2.0 * a)) / 2.0;
+
+    // Ease-in cubic p(x) = c2*x^2 + c3*x^3 on [0,a]:
+    // p(0)=0, p'(0)=0, p(a)=R, p'(a)=s
+    const double c2 = (3.0 * R - s * a) / (a * a);
+    const double c3 = (s * a - 2.0 * R) / (a * a * a);
+    auto ease = [&](double x) { return c2 * x * x + c3 * x * x * x; };
+
+    if (t < a)       return ease(t);
+    if (t > 1.0 - a) return 1.0 - ease(1.0 - t);
+    return R + s * (t - a);
+}

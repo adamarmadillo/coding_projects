@@ -9,6 +9,7 @@
 #include "../../C_homebrew_libs/smooth/smooth.h"
 #include "../../C_homebrew_libs/utils/grid.h"
 #include "../../C_homebrew_libs/utils/utils.h"
+#include "../../C_homebrew_libs/colour_gradients.h"
 
 constexpr double inv_sqrt2 = std::numbers::sqrt2 / 2.0;
 
@@ -65,7 +66,12 @@ struct Perlin {
         });
     }
 
-    double valueAt(Vec2i pos) { return values.at(pos); }
+    void draw(Surface& screen, Vec2i pos = {0, 0}) {
+        screen.setByIndex([&] (size_t i) {
+            std::uint8_t c = values.at(i) * 255;
+            return Colour(c);
+        });
+    }
 };
 
 /// returns a grid of doubles from 0 to 1
@@ -92,22 +98,21 @@ int main() {
     // for me
     const bool drawGrid = false;
     const bool drawVectors = false;
-    const Vec2i cellSize(16, 32);
-    const int screen_height = 1024, screen_width = 1024;
-
+    const Vec2i cellSize(32, 32);
+    const int screen_height = 512, screen_width = 512;
     
     // init env
     Random random(2);
     Surface screen(Vec2i(screen_width, screen_height));
     Grid<double> noiseMatrix(screen.dim);
 
-    Perlin perlin1(1, screen.dim, Vec2s(90, 90), {0, 0}, 0);
-    Perlin perlin2(2, screen.dim, Vec2s(53, 53), {0, 0}, 1);
-    Perlin perlin3(3, screen.dim, Vec2s(18, 18), {0, 0}, 1);
-    Perlin perlin4(4, screen.dim, Vec2s(15, 15), {0, 0}, 2);
-    Perlin perlin5(5, screen.dim, Vec2s(8, 8), {0, 0}, 4);
-    Perlin perlin6(6, screen.dim, Vec2s(7, 7), {0, 0}, 4);
-    Perlin perlin7(7, screen.dim, Vec2s(5, 5), {0, 0}, 2);
+    Perlin perlin1(random.random<int>(), screen.dim, Vec2s(128, 128), {0, 0}, 2);
+    Perlin perlin2(random.random<int>(), screen.dim, Vec2s(64, 64), {0, 0}, 2);
+    Perlin perlin3(random.random<int>(), screen.dim, Vec2s(32, 32), {0, 0}, 2);
+    Perlin perlin4(random.random<int>(), screen.dim, Vec2s(16, 16), {0, 0}, 2);
+    Perlin perlin5(random.random<int>(), screen.dim, Vec2s(8, 8), {0, 0}, 2);
+    Perlin perlin6(random.random<int>(), screen.dim, Vec2s(4, 4), {0, 0}, 2);
+    Perlin perlin7(random.random<int>(), screen.dim, Vec2s(2, 2), {0, 0}, 2);
 
     // TO DO FIX FOR GRID/DRAW INTERACTIONS
     noiseMatrix.setByIndex([&](size_t i) {
@@ -122,21 +127,19 @@ int main() {
         );
     });
 
-    std::vector<Colour> pallete{
-0x0a2a5e, 0x0a2c62, 0x0b2e66, 0x0b306a, 0x0c326e, 0x0c3472, 0x0d3676, 0x0d387a,
-0x0e3a7e, 0x0e3c82, 0x0f3e86, 0x0f408a, 0x10428e, 0x104492, 0x114696, 0x12489a,
-0x144c9e, 0x1a5aa8, 0x3a7cbc, 0x7ab0d6, 0xbcd8ea, 0xe4f0f8, 0xf6fafd, 0xffffff,
-0xffffff, 0xffffff, 0xffffff, 0xffffff, 0xffffff, 0xffffff, 0xffffff, 0xffffff,
-};
+    auto gradient = gradients::islands_32; 
 
     screen.setByIndex([&](size_t i) {
-        return pallete.at(static_cast<size_t>(noiseMatrix.at(i) * 32 * 1));
-    });
+        double x = noiseMatrix.at(i);
 
-    //screen.setByIndex([&](size_t i) {
-    //    uint8_t c = noiseMatrix.at(i) * 256;
-    //    return Colour(c, c, c).q(0x501040);
-    //});
+        // space for eases
+        x = easeOutIn(x, 1.5);
+        x = easeIn(x, 0.4);
+
+        size_t xi = static_cast<size_t>(x * gradient.size());
+        //return Colour(255 * x, 255 * x, 255 * x);
+        return gradient.at(xi);
+    });
 
     // TO DO FIX FOR GRID/DRAW INTERACTIONS
     if (drawGrid)
